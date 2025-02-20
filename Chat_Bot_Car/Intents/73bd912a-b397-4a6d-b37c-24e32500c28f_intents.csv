@@ -1,0 +1,657 @@
+I need more information,Bot_Control_Clarification
+What do you mean by that?,Bot_Control_Clarification
+Can you say that again please?,Bot_Control_Clarification
+What do you mean?,Bot_Control_Clarification
+I don't understand,Bot_Control_Clarification
+I don't understand what you're saying,Bot_Control_Clarification
+I don't get it,Bot_Control_Clarification
+I didn't understand that properly,Bot_Control_Clarification
+I didn't quite understand what you said,Bot_Control_Clarification
+I didn't catch that,Bot_Control_Clarification
+Come again?,Bot_Control_Clarification
+Explains,Bot_Control_Clarification
+I did not quite understand what you gave me,Bot_Control_Clarification
+What are you talking about?,Bot_Control_Clarification
+What are you saying?,Bot_Control_Clarification
+What are you referring to?,Bot_Control_Clarification
+"Let's try to say that again more clearly, shall we?",Bot_Control_Clarification
+Where'd you go?,Bot_Control_Confirm_Presence
+Speak to me if you are there.,Bot_Control_Confirm_Presence
+You around?,Bot_Control_Confirm_Presence
+Is anybody home?,Bot_Control_Confirm_Presence
+Is anybody here?,Bot_Control_Confirm_Presence
+I am still holding,Bot_Control_Confirm_Presence
+Have I lost you?,Bot_Control_Confirm_Presence
+Did you hear what I said?,Bot_Control_Confirm_Presence
+Did you go somewhere?,Bot_Control_Confirm_Presence
+Are you there?,Bot_Control_Confirm_Presence
+Are you still here with me?,Bot_Control_Confirm_Presence
+Are you still around?,Bot_Control_Confirm_Presence
+Are you on?,Bot_Control_Confirm_Presence
+Are you leaving me?,Bot_Control_Confirm_Presence
+Anyone there?,Bot_Control_Confirm_Presence
+Am I talking to someone?,Bot_Control_Confirm_Presence
+Ignore this,Bot_Control_Ignore_Undo
+Nothing,Bot_Control_Ignore_Undo
+Never,Bot_Control_Ignore_Undo
+Not yet,Bot_Control_Ignore_Undo
+"Actually, I take that back",Bot_Control_Ignore_Undo
+Cancel,Bot_Control_Ignore_Undo
+Hold on! I think I want to do it differently.,Bot_Control_Ignore_Undo
+I change my mind.,Bot_Control_Ignore_Undo
+I did not mean that?,Bot_Control_Ignore_Undo
+"I didn't mean to do that actually, let's go back",Bot_Control_Ignore_Undo
+It's not what I mean,Bot_Control_Ignore_Undo
+Let us redo that again!,Bot_Control_Ignore_Undo
+Never mind,Bot_Control_Ignore_Undo
+Wait! Let's back up few steps and do that again,Bot_Control_Ignore_Undo
+Wrong response,Bot_Control_Reject_Response
+You did not understand what I asked,Bot_Control_Reject_Response
+You did not understand what I said,Bot_Control_Reject_Response
+You didn't understand me,Bot_Control_Reject_Response
+Bad response,Bot_Control_Reject_Response
+I do not think it is the answer?,Bot_Control_Reject_Response
+I don't need that,Bot_Control_Reject_Response
+I don't want that,Bot_Control_Reject_Response
+I wasn't looking for that,Bot_Control_Reject_Response
+It is not what I want,Bot_Control_Reject_Response
+It is not what I was looking for,Bot_Control_Reject_Response
+No I'm fine thanks,Bot_Control_Reject_Response
+No,Bot_Control_Reject_Response
+Not the right response,Bot_Control_Reject_Response
+That answer is incorrect,Bot_Control_Reject_Response
+That is not true,Bot_Control_Reject_Response
+That sounds like the wrong response,Bot_Control_Reject_Response
+That was not my intent,Bot_Control_Reject_Response
+"That was wrong, try again",Bot_Control_Reject_Response
+You're misunderstanding me,Bot_Control_Reject_Response
+I disagree,Bot_Control_Reject_Response
+Give me a few minutes to get together,Bot_Control_Standby
+Wait,Bot_Control_Standby
+Out for a break,Bot_Control_Standby
+Need a minute here,Bot_Control_Standby
+Let me see,Bot_Control_Standby
+Keep holding,Bot_Control_Standby
+Just hold on,Bot_Control_Standby
+Just a sec,Bot_Control_Standby
+In a moment,Bot_Control_Standby
+I would like to put you on hold,Bot_Control_Standby
+I will be back,Bot_Control_Standby
+I want stop a moment,Bot_Control_Standby
+Hold on,Bot_Control_Standby
+Give me a second,Bot_Control_Standby
+Give me a moment,Bot_Control_Standby
+Can you wait for me?,Bot_Control_Standby
+Can you give me a moment?,Bot_Control_Standby
+Be patient with me,Bot_Control_Standby
+Be back later,Bot_Control_Standby
+Back again soon,Bot_Control_Standby
+We need a do-over,Bot_Control_Start_Over
+Back to the beginning,Bot_Control_Start_Over
+Back to the top,Bot_Control_Start_Over
+Begin over!,Bot_Control_Start_Over
+Can we please start over?,Bot_Control_Start_Over
+Please reset,Bot_Control_Start_Over
+Start over,Bot_Control_Start_Over
+Restart,Bot_Control_Start_Over
+Please start a new chat,Bot_Control_Start_Over
+How can I start over?,Bot_Control_Start_Over
+I need to reset.,Bot_Control_Start_Over
+I want start from the beginning,Bot_Control_Start_Over
+I would like to start all over,Bot_Control_Start_Over
+Let us reopen this again.,Bot_Control_Start_Over
+Let's go back to square one,Bot_Control_Start_Over
+Let's pick this up from the top again.,Bot_Control_Start_Over
+One more time from the beginning,Bot_Control_Start_Over
+Please initiate from the beginning,Bot_Control_Start_Over
+We will need to begin again,Bot_Control_Start_Over
+"Actually, let's start over",Bot_Control_Start_Over
+I don t know what you need,Bot_Control_Unsure
+You got me,Bot_Control_Unsure
+"To be honest, I m really not sure",Bot_Control_Unsure
+No idea,Bot_Control_Unsure
+No clue,Bot_Control_Unsure
+I m not yet convinced,Bot_Control_Unsure
+I m not sure what will make you happy,Bot_Control_Unsure
+I m not certain I get what you re saying,Bot_Control_Unsure
+I haven't got a clue,Bot_Control_Unsure
+I have no idea what you are looking for,Bot_Control_Unsure
+"I have no idea, actually",Bot_Control_Unsure
+I don t know what you want,Bot_Control_Unsure
+What are the technical specs?,Caractéristiques_techniques
+Could you outline the technical details?,Caractéristiques_techniques
+Can you describe the technical features?,Caractéristiques_techniques
+"I'm interested in the technical specifications, could you elaborate?",Caractéristiques_techniques
+Could you give me some technical insights?,Caractéristiques_techniques
+What can you tell me about its technical makeup?,Caractéristiques_techniques
+What are the technical parameters?,Caractéristiques_techniques
+what are the technical characteristics?,Caractéristiques_techniques
+What technical attributes does it have?,Caractéristiques_techniques
+technical characteristics?,Caractéristiques_techniques
+Can you provide information about the technical aspects?,Caractéristiques_techniques
+Could you explain the technical traits?,Caractéristiques_techniques
+Can you describe the comfort it offers?,Comfort
+Can you give me an idea of the comfort scale?,Comfort
+What's the comfort grade?,Comfort
+How comfortable is the setup?,Comfort
+What's the comfort level evaluation?,Comfort
+Can you detail the comfort amenities?,Comfort
+How does it measure up in terms of comfort?,Comfort
+How would you rate its comfort level?,Comfort
+Can you explain the comfort features?,Comfort
+What's the comfort level like?,Comfort
+How comfortable is the experience?,Comfort
+How does it rank in terms of comfort?,Comfort
+What comfort level does it provide?,Comfort
+What comfort options does it come with?,Comfort
+What level of comfort can I anticipate?,Comfort
+How comfortable can I expect it to be?,Comfort
+How comfortable is it?,Comfort
+Can you elaborate on the comfort offerings?,Comfort
+Can you provide insights into its comfort level?,Comfort
+What's the comfort level assessment?,Comfort
+asking for a lvl of comfort,Comfort
+Confirmation needed,Confirmation
+Confirm this for me,Confirmation
+Asking for confirmation,Confirmation
+Seeking confirmation on this,Confirmation
+Could you provide confirmation ?,Confirmation
+Confirm for me,Confirmation
+Seeking confirmation,Confirmation
+Require confirmation,Confirmation
+Confirm if possible,Confirmation
+Could you confirm ?,Confirmation
+Confirm this,Confirmation
+I'd like confirmation,Confirmation
+Need confirmation,Confirmation
+Can you confirm ?,Confirmation
+Confirm,Confirmation
+Please confirm,Confirmation
+Confirmation,Confirmation
+Just confirmation,Confirmation
+How does the car's design contribute to its overall appeal?,Design_and_aesthetics
+What makes the car visually appealing?,Design_and_aesthetics
+What are your thoughts on the car's exterior design?,Design_and_aesthetics
+How would you describe the car's aesthetic appeal?,Design_and_aesthetics
+What can you tell me about the car's design?,Design_and_aesthetics
+Can you elaborate on the design elements of the car?,Design_and_aesthetics
+Could you provide some insights into the car's aesthetics?,Design_and_aesthetics
+Can you describe the overall aesthetic of the car?,Design_and_aesthetics
+How does the car stand out in terms of design?,Design_and_aesthetics
+What design features distinguish this car from others?,Design_and_aesthetics
+Could you discuss the styling of the car?,Design_and_aesthetics
+Design ?,Design_and_aesthetics
+what about Design !,Design_and_aesthetics
+What aesthetic elements were prioritized in the car's design?,Design_and_aesthetics
+What aesthetic considerations were taken into account in designing the car?,Design_and_aesthetics
+What design principles influenced the car's aesthetics?,Design_and_aesthetics
+Design,Design_and_aesthetics
+aesthetics,Design_and_aesthetics
+What design choices were made for the car's exterior?,Design_and_aesthetics
+What aesthetic enhancements does the car feature?,Design_and_aesthetics
+Can you comment on the car's interior design?,Design_and_aesthetics
+How would you characterize the car's visual impression?,Design_and_aesthetics
+Can you talk about the design philosophy behind the car?,Design_and_aesthetics
+Can you describe the car's lines and contours?,Design_and_aesthetics
+Can you give me details about the car's ecological performance?,Ecology
+Ecology,Ecology
+How does the car contribute to sustainability efforts?,Ecology
+Can you provide an overview of the car's ecological considerations?,Ecology
+What steps has the car company taken to reduce its ecological impact?,Ecology
+What measures has the car taken to be eco-conscious?,Ecology
+Can you elaborate on the car's ecological initiatives?,Ecology
+How does the car align with ecological regulations?,Ecology
+How does the car fare in terms of eco-friendliness?,Ecology
+What eco-friendly technologies does the car incorporate?,Ecology
+What is the car's ecological impact?,Ecology
+Asking for Ecology,Ecology
+Can you tell me about the car's environmental footprint?,Ecology
+What steps has the car manufacturer taken to promote ecological responsibility?,Ecology
+Could you discuss the car's ecological efficiency?,Ecology
+How environmentally friendly is the car's design?,Ecology
+What ecological standards does the car meet?,Ecology
+Can you describe the car's ecological credentials?,Ecology
+How does the car contribute to environmental conservation?,Ecology
+How sustainable is the car in terms of ecology?,Ecology
+Can you provide information on the car's ecological features?,Ecology
+How eco-friendly is the car?,Ecology
+Can you give me an idea of the economic state?,Economy
+Asking for Economy,Economy
+What's the economic situation?,Economy
+How's the state of the economy?,Economy
+Can you provide an update on the economic status?,Economy
+What's the current economic outlook?,Economy
+How is the economy faring?,Economy
+What's the condition of the economy?,Economy
+Could you give me a rundown on the economic climate?,Economy
+How are things economically speaking?,Economy
+Can you share any insights on the economy?,Economy
+What's the economic perspective?,Economy
+What's the economic forecast?,Economy
+How stable is the economy?,Economy
+Could you provide an overview of the economy?,Economy
+How strong is the economy?,Economy
+What's the economic landscape?,Economy
+How would you describe the economic conditions?,Economy
+What's the economic health like?,Economy
+What's the economic performance?,Economy
+Can you shed light on the economic situation?,Economy
+What onboard tech options are available?,Embedded_technology
+What onboard technologies are available?,Embedded_technology
+Can you list the technologies integrated on board?,Embedded_technology
+Could you elaborate on the onboard tech?,Embedded_technology
+What technological features does it have?,Embedded_technology
+What onboard tech is included?,Embedded_technology
+Could you detail the onboard technological advancements?,Embedded_technology
+What onboard technological functionalities are present?,Embedded_technology
+Can you describe the onboard technological capabilities?,Embedded_technology
+What are the technological amenities onboard?,Embedded_technology
+What technology does it offer onboard?,Embedded_technology
+What onboard tech enhancements are there?,Embedded_technology
+Could you outline the onboard technological assets?,Embedded_technology
+Can you provide information about the onboard tech?,Embedded_technology
+Can you explain the onboard tech specifications?,Embedded_technology
+What onboard tech features are incorporated?,Embedded_technology
+Could you elaborate on the onboard technological offerings?,Embedded_technology
+What onboard tech systems are installed?,Embedded_technology
+Could you give me insight into the onboard technological provisions?,Embedded_technology
+Can you describe the onboard technological infrastructure?,Embedded_technology
+Farewell,Farewells
+Bye bye,Farewells
+So long,Farewells
+Catch you later,Farewells
+Until next time,Farewells
+Have a great day,Farewells
+Bye for now,Farewells
+Take care,Farewells
+See you later,Farewells
+Goodbye,Farewells
+give me information about mercedess classe a ,Features_and_specifications
+BMW X2 ,Features_and_specifications
+bmw X1,Features_and_specifications
+give me more specific infomation about bmw ,Features_and_specifications
+"Give me a spicific think , about bmw series 1",Features_and_specifications
+"givw me a specification about BMW , Serie 1",Features_and_specifications
+Provide details about the advanced driver assistance systems (ADAS) in the Volvo XC60.,Features_and_specifications
+What are the available infotainment options in the Ford Explorer?,Features_and_specifications
+I want to learn about the off-road capabilities of the Jeep Wrangler Rubicon.,Features_and_specifications
+Show me the different engine configurations offered in the Chevrolet Silverado 1500.,Features_and_specifications
+What are the customization options available for the interior upholstery in the Lexus RX?,Features_and_specifications
+Can you provide details about the towing package available for the Toyota Tundra?,Features_and_specifications
+Show me the safety features included in the standard package of the Subaru Crosstrek.,Features_and_specifications
+I'm interested in learning about the adaptive suspension system in the BMW 5 Series.,Features_and_specifications
+What are the available paint color options for the Tesla Model Y?,Features_and_specifications
+Please provide information about the sound system upgrade options in the Audi Q5.,Features_and_specifications
+I want to know the technical specifications of the Honda Accord.,Features_and_specifications
+What engine options are available for the Ford Mustang?,Features_and_specifications
+Can you provide details about the dimensions of the Volkswagen Tiguan?,Features_and_specifications
+What are the safety features offered by the Volvo XC90?,Features_and_specifications
+I would like to learn more about the onboard technologies in the BMW 3 Series.,Features_and_specifications
+Can I use another language?,General_About_You
+Why are you here?,General_About_You
+Who are you?,General_About_You
+Where were you born?,General_About_You
+Where are you from?,General_About_You
+Describe your self,General_About_You
+Do you have a name?,General_About_You
+Do you know who you are?,General_About_You
+How can I configure you?,General_About_You
+How do you function?,General_About_You
+How old are you?,General_About_You
+I want to set up the chat bot for my shop,General_About_You
+Introduce your self,General_About_You
+Let us talk about you,General_About_You
+Tell me about your life,General_About_You
+Tell me something about yourself,General_About_You
+What languages do you speak?,General_About_You
+What should I know about you?,General_About_You
+What's your name?,General_About_You
+About you,General_About_You
+Im good thank you,General_Ending
+I'm leaving now,General_Ending
+It was nice chatting with you,General_Ending
+Ok goodbye,General_Ending
+Going now,General_Ending
+See you,General_Ending
+Shut up,General_Ending
+Stop doing this,General_Ending
+Stop talking to me,General_Ending
+Thank you for your time,General_Ending
+"Thanks, bye!",General_Ending
+"Thanks very much, bye!",General_Ending
+That is all,General_Ending
+That's everything,General_Ending
+Time to go,General_Ending
+Go off,General_Ending
+Go away,General_Ending
+Get lost,General_Ending
+"Finished now, good bye",General_Ending
+Ending this session,General_Ending
+End trial,General_Ending
+Cya later,General_Ending
+Catch you later,General_Ending
+Bye now,General_Ending
+Bye bye,General_Ending
+See you later,General_Ending
+Good. bye.,General_Ending
+Goodbye,General_Ending
+Have a nice day?,General_Ending
+Hey bot go away,General_Ending
+I am leaving,General_Ending
+I am out of here,General_Ending
+I d like to stop doing this,General_Ending
+I have got to go,General_Ending
+I want to quit,General_Ending
+I'm done,General_Ending
+Im done,General_Ending
+Hello Agent,General_Greetings
+What's up?,General_Greetings
+What's new?,General_Greetings
+Ok take me back,General_Greetings
+Looking good eve,General_Greetings
+How r u?,General_Greetings
+How is it going?,General_Greetings
+How have you been?,General_Greetings
+How are you today?,General_Greetings
+How are things going?,General_Greetings
+Hi there,General_Greetings
+Hi advisor,General_Greetings
+Hey you,General_Greetings
+Hey twin,General_Greetings
+Have you been well?,General_Greetings
+Greetings,General_Greetings
+Good to see you,General_Greetings
+Good morning,General_Greetings
+Good evening,General_Greetings
+Good day,General_Greetings
+Hello I am looking for some help here,General_Greetings
+Hello,General_Greetings
+Hey how are you doing,General_Greetings
+Hey there,General_Greetings
+Hey there all,General_Greetings
+You there,General_Greetings
+Who is this?,General_Greetings
+"Tell me, are you a human or no?",General_Human_or_Bot
+Is this a computer?,General_Human_or_Bot
+How can you prove you are a human?,General_Human_or_Bot
+Are you real?,General_Human_or_Bot
+Are you human?,General_Human_or_Bot
+Are you even real?,General_Human_or_Bot
+Are you a robot?,General_Human_or_Bot
+Are you a human or a bot?,General_Human_or_Bot
+Am I talking to a person or am I talking to an AI?,General_Human_or_Bot
+Am I talking to a Bot?,General_Human_or_Bot
+Am I talking to Watson?,General_Human_or_Bot
+Am I chatting with a human?,General_Human_or_Bot
+Robots are stupid,General_Negative_Feedback
+You're too stupid,General_Negative_Feedback
+You're really irritating,General_Negative_Feedback
+You're really frustrating,General_Negative_Feedback
+You do not seem smart,General_Negative_Feedback
+You are very frustrating,General_Negative_Feedback
+Everyone hates you,General_Negative_Feedback
+Hate you,General_Negative_Feedback
+I do not like you,General_Negative_Feedback
+I hate this!,General_Negative_Feedback
+I hate you,General_Negative_Feedback
+It is annoying,General_Negative_Feedback
+Quit annoying me,General_Negative_Feedback
+You are on my nerves,General_Negative_Feedback
+You are having delusions,General_Negative_Feedback
+Do not like you?,General_Negative_Feedback
+Why are you stupid?,General_Negative_Feedback
+Why are you so annoying?,General_Negative_Feedback
+Stupid,General_Negative_Feedback
+Robots are boring,General_Negative_Feedback
+Love your work,General_Positive_Feedback
+Brilliant!,General_Positive_Feedback
+Can't believe you are that good,General_Positive_Feedback
+How cool is this?,General_Positive_Feedback
+I like what you did there! :),General_Positive_Feedback
+I'm looking forward to working with you again! :),General_Positive_Feedback
+Ok thank you,General_Positive_Feedback
+Thank you,General_Positive_Feedback
+This is good,General_Positive_Feedback
+This is great,General_Positive_Feedback
+This is so cool,General_Positive_Feedback
+You are awesome,General_Positive_Feedback
+You are great,General_Positive_Feedback
+You are the best,General_Positive_Feedback
+You are wonderful,General_Positive_Feedback
+You gave me exactly what I need!,General_Positive_Feedback
+You the man,General_Positive_Feedback
+You're a genius!,General_Positive_Feedback
+You've been so helpful :),General_Positive_Feedback
+How safe is my data?,General_Security_Assurance
+Are you safe on hackers?,General_Security_Assurance
+Precautions hackers?,General_Security_Assurance
+Is this conversation secure?,General_Security_Assurance
+Is this an official chat?,General_Security_Assurance
+Is this a trusted chat site?,General_Security_Assurance
+Is there a reason to distrust this chat?,General_Security_Assurance
+Is my payment information secure?,General_Security_Assurance
+Is my card info secure?,General_Security_Assurance
+In what way can I tell if my plastic is safe?,General_Security_Assurance
+I'd like proof of a secure chat,General_Security_Assurance
+How is my credit card info secured?,General_Security_Assurance
+How do I know this chat is not a scam?,General_Security_Assurance
+How do I know if my card info is kept safe?,General_Security_Assurance
+Do you have protection against hacks?,General_Security_Assurance
+Customer info secured?,General_Security_Assurance
+Conversation secure?,General_Security_Assurance
+Can I be sure that my stored card details are held securely?,General_Security_Assurance
+Are you safe?,General_Security_Assurance
+Will my conversation remain secured?,General_Security_Assurance
+Why would I trust this chat?,General_Security_Assurance
+What safety measures are used to ensure that chat is secure?,General_Security_Assurance
+What makes this chat trustworthy?,General_Security_Assurance
+What guards do you have in place to protect your customer's data?,General_Security_Assurance
+Secure conversation?,General_Security_Assurance
+Protection hacks?,General_Security_Assurance
+models Volkswagen ,model
+Are there any model car kits available for assembly?,model
+Can you provide information on the pricing of model cars?,model
+Give me all models about BMW,model
+give me models,model
+models,model
+"please, what models exist",model
+Do you have any remote-controlled model cars?,model
+Where can I find model cars in your store?,model
+Do you carry model cars for sale?,model
+Can you show me your collection of model cars?,model
+Do you have any model cars available?,model
+Are there any collectible model cars in your inventory?,model
+Are there any new arrivals in the model car section?,model
+Can you tell me about the selection of model cars you have?,model
+Could you assist me in finding a particular model car?,model
+model,model
+Can you show me where the model car accessories are?,model
+Are there any miniature car models in stock?,model
+give me all models,model
+Do you offer a variety of model car options?,model
+Are there any limited edition model cars available?,model
+Could you point me towards the section with model cars?,model
+Can you recommend any popular model car brands?,model
+Do you have any vintage model cars for sale?,model
+What scales of model cars do you carry?,model
+Do you offer model cars of specific makes and models?,model
+I want to see a side-by-side comparison of the fuel efficiency of the Chevrolet Bolt and the Nissan Leaf.,Model_comparison
+I want to see how the resale value of the Jeep Wrangler compares to the Ford Bronco.,Model_comparison
+I'm interested in comparing the towing capacity of the GMC Sierra and the Ford F-150.,Model_comparison
+Show me a comparison of the interior dimensions of the Toyota Highlander and the Honda Pilot.,Model_comparison
+What are the differences between the BMW X5 and the Mercedes-Benz GLE?,Model_comparison
+What are the differences in available trim levels between the Chevrolet Silverado and the Ram 1500?,Model_comparison
+What are the differences in cargo space between the Subaru Outback and the Ford Escape?,Model_comparison
+What are the performance differences between the BMW 3 Series and the Mercedes-Benz C-Class?,Model_comparison
+What are the pros and cons of the Toyota RAV4 compared to the Nissan Rogue?,Model_comparison
+Car A boasts a higher horsepower compared to Car B.,Model_comparison
+What distinguishes one car from the other?,Model_comparison
+How do these two cars compare?,Model_comparison
+How do the performance metrics of these two cars stack up against each other?,Model_comparison
+How does the pricing of these two cars compare?,Model_comparison
+Can you contrast the features of these two cars?,Model_comparison
+Can you outline the pros and cons of each car for comparison?,Model_comparison
+What are the differences between these two cars?,Model_comparison
+Could you compare and contrast these two car models?,Model_comparison
+How do the specifications of these two cars differ?,Model_comparison
+Could you highlight the similarities and differences between these two cars?,Model_comparison
+"What are the driving experiences like in these two cars, and how do they compare?",Model_comparison
+Could you break down the safety features of each car for comparison?,Model_comparison
+What sets these two cars apart from each other?,Model_comparison
+Can you provide a comparison between these two vehicles?,Model_comparison
+What are the key factors to consider when comparing these two cars?,Model_comparison
+Can you give me an overview of the competing features between these two cars?,Model_comparison
+"What are the fuel efficiency ratings for these two cars, and how do they compare?",Model_comparison
+Can you provide a side-by-side comparison of the interior features of these two cars?,Model_comparison
+How do the warranties offered by these two cars compare?,Model_comparison
+What are the consumer reviews saying about these two cars in comparison to each other?,Model_comparison
+I want to compare the features of the Tesla Model S and the Chevrolet Bolt.,Model_comparison
+Compare the Toyota Corolla and the Honda Civic.,Model_comparison
+Compare the technology options available in the Hyundai Sonata and the Kia Optima.,Model_comparison
+Compare the standard warranty coverage of the Volkswagen Atlas and the Toyota Sienna.,Model_comparison
+Compare the safety features of the Toyota RAV4 and the Honda CR-V.,Model_comparison
+Can you give me an overview of the options available for the Subaru Outback and the Ford Explorer?,Model_comparison
+give me generale infor about BMW ,Model_search
+quelle sont les infos sur BMW ?,Model_search
+give me information about bmw ,Model_search
+Can you give me information about BMW ,Model_search
+Show me information on the latest Toyota Highlander models.,Model_search
+I'm interested in learning about the Ford Mustang lineup.,Model_search
+Can you provide details about the different models of the Chevrolet Tahoe?,Model_search
+What SUV models does Jeep currently offer?,Model_search
+I'm curious about the electric vehicle options available from Tesla.,Model_search
+List all the sedan models from Hyundai.,Model_search
+I want to explore the luxury car models from Lexus.,Model_search
+Please give me information on the hybrid car models from Toyota.,Model_search
+What truck models are available from GMC?,Model_search
+Can you tell me about the compact car lineup from Honda?,Model_search
+What are the different models of electric cars offered by Nissan?,Model_search
+I'm interested in learning about the crossover SUV lineup from Subaru.,Model_search
+Can you provide details on the sports car models available from Porsche?,Model_search
+Show me information about the luxury SUV models from Range Rover.,Model_search
+I want to explore the hatchback models from Volkswagen.,Model_search
+List all the pickup truck models from Ford.,Model_search
+Please give me details about the convertible car models offered by BMW.,Model_search
+What are the latest sedan models released by Audi?,Model_search
+I'm curious about the compact SUV options available from Kia.,Model_search
+Can you tell me about the electric crossover models from Tesla?,Model_search
+Provide information on the hybrid SUV models offered by Toyota.,Model_search
+I would like information about the Toyota Camry.,Model_search
+What car models are available from BMW?,Model_search
+Can you provide details about the Honda Civic?,Model_search
+I'm looking for information on hybrid SUVs.,Model_search
+What is the latest model from Audi?,Model_search
+What's its performance level?,Performances
+How well does it perform?,Performances
+What's the performance assessment?,Performances
+What's the performance rating?,Performances
+Can you elaborate on its performance metrics?,Performances
+What's the performance like?,Performances
+What performance benchmarks does it meet?,Performances
+Could you detail its performance capabilities?,Performances
+Could you provide information on its performance?,Performances
+Can you describe its performance?,Performances
+How does it perform?,Performances
+How does its performance compare to others?,Performances
+describe,Performances
+What are its performance specifications?,Performances
+What's the performance track record?,Performances
+How reliable is its performance?,Performances
+Can you quantify its performance?,Performances
+How consistent is its performance?,Performances
+Could you describe its performance characteristics?,Performances
+How does it fare in terms of performance?,Performances
+Can you give me an overview of its performance?,Performances
+Can you provide the price details?,Price
+Could you give me the price quote?,Price
+What's the price range?,Price
+How much do I need to pay?,Price
+What's the cost?,Price
+Could you disclose the price?,Price
+What's the price point?,Price
+How expensive is it?,Price
+what is the price ?,Price
+What's the price tag?,Price
+Can you tell me the price?,Price
+What's the asking price?,Price
+How much does it cost?,Price
+Can you inform me of the price?,Price
+What's the current price?,Price
+How does it fare in terms of pricing?,Price
+How much am I looking at?,Price
+What's the pricing?,Price
+What's the price status?,Price
+How does the price compare to similar options?,Price
+What's the price estimate?,Price
+How reliable is this car?,Reliability
+Could you discuss the reliability factors associated with this car?,Reliability
+What's the reliability record of this particular model?,Reliability
+Can you shed some light on the reliability performance of this car?,Reliability
+How trustworthy is this vehicle in terms of reliability?,Reliability
+Can you give me an idea of how reliable this car is?,Reliability
+Is this car known for its reliability?,Reliability
+What can you tell me about the real-world reliability experiences of owners of this car?,Reliability
+What's the track record for reliability on this make and model?,Reliability
+What's the reliability like on this model?,Reliability
+Can you tell me about the car's reliability?,Reliability
+Could you describe the car's reliability history?,Reliability
+Can you provide information on the car's reliability rating?,Reliability
+How dependable is this vehicle?,Reliability
+What's the reputation for reliability of this car?,Reliability
+Could you give me some information regarding the car's reliability tests or studies?,Reliability
+How does this car fare in terms of reliability compared to others in its class?,Reliability
+What's the reliability assessment for this car?,Reliability
+Can you provide any insights into the car's reliability over time?,Reliability
+Is reliability a strong point for this car?,Reliability
+Any thoughts on what I should consider?,suggestion
+"I'm interested in your input, what suggestions do you have?",suggestion
+"In your opinion, what would be a good suggestion?",suggestion
+What's your take on this? Any suggestions?,suggestion
+Could you offer some guidance or suggestions?,suggestion
+Do you have any recommendations for me?,suggestion
+"I'm open to ideas, what do you suggest?",suggestion
+Can you provide some insight or suggestions?,suggestion
+"I'm seeking advice, what's your suggestion?",suggestion
+What would you propose?,suggestion
+"I'm looking for suggestions, could you help?",suggestion
+Could you assist me by suggesting something?,suggestion
+What are your suggestions?,suggestion
+Any ideas or suggestions?,suggestion
+What do you suggest?,suggestion
+Can you recommend something?,suggestion
+Could you give me some suggestions?,suggestion
+Do you have any suggestions?,suggestion
+Could you suggest something?,suggestion
+"I'm open to suggestions, do you have any recommendations?",suggestion
+What sustainability measures have been taken?,sustainability_durabilité
+What steps have been implemented to ensure sustainability?,sustainability_durabilité
+What steps are being taken to improve sustainability performance?,sustainability_durabilité
+Asking for sustainability,sustainability_durabilité
+sustainability,sustainability_durabilité
+Can you discuss the company's commitment to sustainability?,sustainability_durabilité
+Can you elaborate on the sustainability efforts being made?,sustainability_durabilité
+Can you explain the sustainability strategy being employed here?,sustainability_durabilité
+Can you provide information on the sustainability of this project?,sustainability_durabilité
+Can you provide insights into the sustainability initiatives in place?,sustainability_durabilité
+Could you discuss the sustainability practices involved?,sustainability_durabilité
+How does this company prioritize sustainability?,sustainability_durabilité
+How does this initiative address social and environmental sustainability?,sustainability_durabilité
+How does this plan contribute to overall sustainability?,sustainability_durabilité
+How does this product align with sustainability principles?,sustainability_durabilité
+How environmentally friendly is this initiative?,sustainability_durabilité
+How sustainable is this product?,sustainability_durabilité
+What are the sustainability goals of this organization?,sustainability_durabilité
+What impact does this project have on environmental sustainability?,sustainability_durabilité
+What is being done to promote sustainability in this venture?,sustainability_durabilité
+What measures are being taken to ensure long-term sustainability?,sustainability_durabilité
+What role does sustainability play in the decision-making process?,sustainability_durabilité
+I owe you one,thank_you
+I'm thankful for your help,thank_you
+Much obliged,thank_you
+Thank you,thank_you
+Thanks,thank_you
+I appreciate it,thank_you
+Many thanks,thank_you
+Thanks a lot,thank_you
+I'm grateful,thank_you
+Thank you very much,thank_you

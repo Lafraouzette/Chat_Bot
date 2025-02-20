@@ -1,0 +1,5569 @@
+{
+  "intents": [
+    {
+      "intent": "Bot_Control_Clarification",
+      "examples": [
+        {
+          "text": "Can you say that again please?"
+        },
+        {
+          "text": "Come again?"
+        },
+        {
+          "text": "Explains"
+        },
+        {
+          "text": "I did not quite understand what you gave me"
+        },
+        {
+          "text": "I didn't catch that"
+        },
+        {
+          "text": "I didn't quite understand what you said"
+        },
+        {
+          "text": "I didn't understand that properly"
+        },
+        {
+          "text": "I don't get it"
+        },
+        {
+          "text": "I don't understand"
+        },
+        {
+          "text": "I don't understand what you're saying"
+        },
+        {
+          "text": "I need more information"
+        },
+        {
+          "text": "Let's try to say that again more clearly, shall we?"
+        },
+        {
+          "text": "What are you referring to?"
+        },
+        {
+          "text": "What are you saying?"
+        },
+        {
+          "text": "What are you talking about?"
+        },
+        {
+          "text": "What do you mean?"
+        },
+        {
+          "text": "What do you mean by that?"
+        }
+      ],
+      "description": "Repeat or clarify last statement."
+    },
+    {
+      "intent": "Bot_Control_Confirm_Presence",
+      "examples": [
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Are you still around?"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        },
+        {
+          "text": "Have I lost you?"
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Is anybody home?"
+        },
+        {
+          "text": "Speak to me if you are there."
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "You around?"
+        }
+      ],
+      "description": "Ask the bot to indicate that it is available."
+    },
+    {
+      "intent": "Bot_Control_Ignore_Undo",
+      "examples": [
+        {
+          "text": "Actually, I take that back"
+        },
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Hold on! I think I want to do it differently."
+        },
+        {
+          "text": "I change my mind."
+        },
+        {
+          "text": "I did not mean that?"
+        },
+        {
+          "text": "I didn't mean to do that actually, let's go back"
+        },
+        {
+          "text": "Ignore this"
+        },
+        {
+          "text": "It's not what I mean"
+        },
+        {
+          "text": "Let us redo that again!"
+        },
+        {
+          "text": "Never"
+        },
+        {
+          "text": "Never mind"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "Not yet"
+        },
+        {
+          "text": "Wait! Let's back up few steps and do that again"
+        }
+      ],
+      "description": "Ask the bot to take one step back."
+    },
+    {
+      "intent": "Bot_Control_Reject_Response",
+      "examples": [
+        {
+          "text": "Bad response"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "I don't need that"
+        },
+        {
+          "text": "I don't want that"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "That answer is incorrect"
+        },
+        {
+          "text": "That is not true"
+        },
+        {
+          "text": "That sounds like the wrong response"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "That was wrong, try again"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "You did not understand what I asked"
+        },
+        {
+          "text": "You did not understand what I said"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "You're misunderstanding me"
+        }
+      ],
+      "description": "Indicate the bot's response does not address a question."
+    },
+    {
+      "intent": "Bot_Control_Standby",
+      "examples": [
+        {
+          "text": "Back again soon"
+        },
+        {
+          "text": "Be back later"
+        },
+        {
+          "text": "Be patient with me"
+        },
+        {
+          "text": "Can you give me a moment?"
+        },
+        {
+          "text": "Can you wait for me?"
+        },
+        {
+          "text": "Give me a few minutes to get together"
+        },
+        {
+          "text": "Give me a moment"
+        },
+        {
+          "text": "Give me a second"
+        },
+        {
+          "text": "Hold on"
+        },
+        {
+          "text": "In a moment"
+        },
+        {
+          "text": "I want stop a moment"
+        },
+        {
+          "text": "I will be back"
+        },
+        {
+          "text": "I would like to put you on hold"
+        },
+        {
+          "text": "Just a sec"
+        },
+        {
+          "text": "Just hold on"
+        },
+        {
+          "text": "Keep holding"
+        },
+        {
+          "text": "Let me see"
+        },
+        {
+          "text": "Need a minute here"
+        },
+        {
+          "text": "Out for a break"
+        },
+        {
+          "text": "Wait"
+        }
+      ],
+      "description": "Indicate a delay in providing input to the bot."
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "Actually, let's start over"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Begin over!"
+        },
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "Let's go back to square one"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "We will need to begin again"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "I don t know what you need"
+        },
+        {
+          "text": "I don t know what you want"
+        },
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "No idea"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "You got me"
+        }
+      ],
+      "description": "Indicate no definite answer to a question."
+    },
+    {
+      "intent": "Caractéristiques_techniques",
+      "examples": [
+        {
+          "text": "Can you describe the technical features?"
+        },
+        {
+          "text": "Can you provide information about the technical aspects?"
+        },
+        {
+          "text": "Could you explain the technical traits?"
+        },
+        {
+          "text": "Could you give me some technical insights?"
+        },
+        {
+          "text": "Could you outline the technical details?"
+        },
+        {
+          "text": "I'm interested in the technical specifications, could you elaborate?"
+        },
+        {
+          "text": "technical characteristics?"
+        },
+        {
+          "text": "what are the technical characteristics?"
+        },
+        {
+          "text": "What are the technical parameters?"
+        },
+        {
+          "text": "What are the technical specs?"
+        },
+        {
+          "text": "What can you tell me about its technical makeup?"
+        },
+        {
+          "text": "What technical attributes does it have?"
+        }
+      ],
+      "description": "Caractéristiques techniques a porpos d'une voiture"
+    },
+    {
+      "intent": "Comfort",
+      "examples": [
+        {
+          "text": "asking for a lvl of comfort"
+        },
+        {
+          "text": "Can you describe the comfort it offers?"
+        },
+        {
+          "text": "Can you detail the comfort amenities?"
+        },
+        {
+          "text": "Can you elaborate on the comfort offerings?"
+        },
+        {
+          "text": "Can you explain the comfort features?"
+        },
+        {
+          "text": "Can you give me an idea of the comfort scale?"
+        },
+        {
+          "text": "Can you provide insights into its comfort level?"
+        },
+        {
+          "text": "How comfortable can I expect it to be?"
+        },
+        {
+          "text": "How comfortable is it?"
+        },
+        {
+          "text": "How comfortable is the experience?"
+        },
+        {
+          "text": "How comfortable is the setup?"
+        },
+        {
+          "text": "How does it measure up in terms of comfort?"
+        },
+        {
+          "text": "How does it rank in terms of comfort?"
+        },
+        {
+          "text": "How would you rate its comfort level?"
+        },
+        {
+          "text": "What comfort level does it provide?"
+        },
+        {
+          "text": "What comfort options does it come with?"
+        },
+        {
+          "text": "What level of comfort can I anticipate?"
+        },
+        {
+          "text": "What's the comfort grade?"
+        },
+        {
+          "text": "What's the comfort level assessment?"
+        },
+        {
+          "text": "What's the comfort level evaluation?"
+        },
+        {
+          "text": "What's the comfort level like?"
+        }
+      ],
+      "description": "asking for a lvl of comfort"
+    },
+    {
+      "intent": "Confirmation",
+      "examples": [
+        {
+          "text": "Asking for confirmation"
+        },
+        {
+          "text": "Can you confirm ?"
+        },
+        {
+          "text": "Confirm"
+        },
+        {
+          "text": "Confirmation"
+        },
+        {
+          "text": "Confirmation needed"
+        },
+        {
+          "text": "Confirm for me"
+        },
+        {
+          "text": "Confirm if possible"
+        },
+        {
+          "text": "Confirm this"
+        },
+        {
+          "text": "Confirm this for me"
+        },
+        {
+          "text": "Could you confirm ?"
+        },
+        {
+          "text": "Could you provide confirmation ?"
+        },
+        {
+          "text": "I'd like confirmation"
+        },
+        {
+          "text": "Just confirmation"
+        },
+        {
+          "text": "Need confirmation"
+        },
+        {
+          "text": "Please confirm"
+        },
+        {
+          "text": "Require confirmation"
+        },
+        {
+          "text": "Seeking confirmation"
+        },
+        {
+          "text": "Seeking confirmation on this"
+        }
+      ]
+    },
+    {
+      "intent": "Design_and_aesthetics",
+      "examples": [
+        {
+          "text": "aesthetics"
+        },
+        {
+          "text": "Can you comment on the car's interior design?"
+        },
+        {
+          "text": "Can you describe the car's lines and contours?"
+        },
+        {
+          "text": "Can you describe the overall aesthetic of the car?"
+        },
+        {
+          "text": "Can you elaborate on the design elements of the car?"
+        },
+        {
+          "text": "Can you talk about the design philosophy behind the car?"
+        },
+        {
+          "text": "Could you discuss the styling of the car?"
+        },
+        {
+          "text": "Could you provide some insights into the car's aesthetics?"
+        },
+        {
+          "text": "Design"
+        },
+        {
+          "text": "Design ?"
+        },
+        {
+          "text": "How does the car's design contribute to its overall appeal?"
+        },
+        {
+          "text": "How does the car stand out in terms of design?"
+        },
+        {
+          "text": "How would you characterize the car's visual impression?"
+        },
+        {
+          "text": "How would you describe the car's aesthetic appeal?"
+        },
+        {
+          "text": "what about Design !"
+        },
+        {
+          "text": "What aesthetic considerations were taken into account in designing the car?"
+        },
+        {
+          "text": "What aesthetic elements were prioritized in the car's design?"
+        },
+        {
+          "text": "What aesthetic enhancements does the car feature?"
+        },
+        {
+          "text": "What are your thoughts on the car's exterior design?"
+        },
+        {
+          "text": "What can you tell me about the car's design?"
+        },
+        {
+          "text": "What design choices were made for the car's exterior?"
+        },
+        {
+          "text": "What design features distinguish this car from others?"
+        },
+        {
+          "text": "What design principles influenced the car's aesthetics?"
+        },
+        {
+          "text": "What makes the car visually appealing?"
+        }
+      ],
+      "description": "Asking for car's Design and aesthetics"
+    },
+    {
+      "intent": "Ecology",
+      "examples": [
+        {
+          "text": "Asking for Ecology"
+        },
+        {
+          "text": "Can you describe the car's ecological credentials?"
+        },
+        {
+          "text": "Can you elaborate on the car's ecological initiatives?"
+        },
+        {
+          "text": "Can you give me details about the car's ecological performance?"
+        },
+        {
+          "text": "Can you provide an overview of the car's ecological considerations?"
+        },
+        {
+          "text": "Can you provide information on the car's ecological features?"
+        },
+        {
+          "text": "Can you tell me about the car's environmental footprint?"
+        },
+        {
+          "text": "Could you discuss the car's ecological efficiency?"
+        },
+        {
+          "text": "Ecology"
+        },
+        {
+          "text": "How does the car align with ecological regulations?"
+        },
+        {
+          "text": "How does the car contribute to environmental conservation?"
+        },
+        {
+          "text": "How does the car contribute to sustainability efforts?"
+        },
+        {
+          "text": "How does the car fare in terms of eco-friendliness?"
+        },
+        {
+          "text": "How eco-friendly is the car?"
+        },
+        {
+          "text": "How environmentally friendly is the car's design?"
+        },
+        {
+          "text": "How sustainable is the car in terms of ecology?"
+        },
+        {
+          "text": "What eco-friendly technologies does the car incorporate?"
+        },
+        {
+          "text": "What ecological standards does the car meet?"
+        },
+        {
+          "text": "What is the car's ecological impact?"
+        },
+        {
+          "text": "What measures has the car taken to be eco-conscious?"
+        },
+        {
+          "text": "What steps has the car company taken to reduce its ecological impact?"
+        },
+        {
+          "text": "What steps has the car manufacturer taken to promote ecological responsibility?"
+        }
+      ],
+      "description": "Asking for Ecology"
+    },
+    {
+      "intent": "Economy",
+      "examples": [
+        {
+          "text": "Asking for Economy"
+        },
+        {
+          "text": "Can you give me an idea of the economic state?"
+        },
+        {
+          "text": "Can you provide an update on the economic status?"
+        },
+        {
+          "text": "Can you share any insights on the economy?"
+        },
+        {
+          "text": "Can you shed light on the economic situation?"
+        },
+        {
+          "text": "Could you give me a rundown on the economic climate?"
+        },
+        {
+          "text": "Could you provide an overview of the economy?"
+        },
+        {
+          "text": "How are things economically speaking?"
+        },
+        {
+          "text": "How is the economy faring?"
+        },
+        {
+          "text": "How stable is the economy?"
+        },
+        {
+          "text": "How's the state of the economy?"
+        },
+        {
+          "text": "How strong is the economy?"
+        },
+        {
+          "text": "How would you describe the economic conditions?"
+        },
+        {
+          "text": "What's the condition of the economy?"
+        },
+        {
+          "text": "What's the current economic outlook?"
+        },
+        {
+          "text": "What's the economic forecast?"
+        },
+        {
+          "text": "What's the economic health like?"
+        },
+        {
+          "text": "What's the economic landscape?"
+        },
+        {
+          "text": "What's the economic performance?"
+        },
+        {
+          "text": "What's the economic perspective?"
+        },
+        {
+          "text": "What's the economic situation?"
+        }
+      ],
+      "description": "Asking for Economy"
+    },
+    {
+      "intent": "Embedded_technology",
+      "examples": [
+        {
+          "text": "Can you describe the onboard technological capabilities?"
+        },
+        {
+          "text": "Can you describe the onboard technological infrastructure?"
+        },
+        {
+          "text": "Can you explain the onboard tech specifications?"
+        },
+        {
+          "text": "Can you list the technologies integrated on board?"
+        },
+        {
+          "text": "Can you provide information about the onboard tech?"
+        },
+        {
+          "text": "Could you detail the onboard technological advancements?"
+        },
+        {
+          "text": "Could you elaborate on the onboard tech?"
+        },
+        {
+          "text": "Could you elaborate on the onboard technological offerings?"
+        },
+        {
+          "text": "Could you give me insight into the onboard technological provisions?"
+        },
+        {
+          "text": "Could you outline the onboard technological assets?"
+        },
+        {
+          "text": "What are the technological amenities onboard?"
+        },
+        {
+          "text": "What onboard tech enhancements are there?"
+        },
+        {
+          "text": "What onboard tech features are incorporated?"
+        },
+        {
+          "text": "What onboard tech is included?"
+        },
+        {
+          "text": "What onboard technological functionalities are present?"
+        },
+        {
+          "text": "What onboard technologies are available?"
+        },
+        {
+          "text": "What onboard tech options are available?"
+        },
+        {
+          "text": "What onboard tech systems are installed?"
+        },
+        {
+          "text": "What technological features does it have?"
+        },
+        {
+          "text": "What technology does it offer onboard?"
+        }
+      ],
+      "description": "asking for the embedded technology"
+    },
+    {
+      "intent": "Farewells",
+      "examples": [
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye for now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Farewell"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a great day"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "So long"
+        },
+        {
+          "text": "Take care"
+        },
+        {
+          "text": "Until next time"
+        }
+      ]
+    },
+    {
+      "intent": "Features_and_specifications",
+      "examples": [
+        {
+          "text": "bmw X1"
+        },
+        {
+          "text": "BMW X2 "
+        },
+        {
+          "text": "Can you provide details about the dimensions of the Volkswagen Tiguan?"
+        },
+        {
+          "text": "Can you provide details about the towing package available for the Toyota Tundra?"
+        },
+        {
+          "text": "Give me a spicific think , about bmw series 1"
+        },
+        {
+          "text": "give me information about mercedess classe a "
+        },
+        {
+          "text": "give me more specific infomation about bmw "
+        },
+        {
+          "text": "givw me a specification about BMW , Serie 1"
+        },
+        {
+          "text": "I'm interested in learning about the adaptive suspension system in the BMW 5 Series."
+        },
+        {
+          "text": "I want to know the technical specifications of the Honda Accord."
+        },
+        {
+          "text": "I want to learn about the off-road capabilities of the Jeep Wrangler Rubicon."
+        },
+        {
+          "text": "I would like to learn more about the onboard technologies in the BMW 3 Series."
+        },
+        {
+          "text": "Please provide information about the sound system upgrade options in the Audi Q5."
+        },
+        {
+          "text": "Provide details about the advanced driver assistance systems (ADAS) in the Volvo XC60."
+        },
+        {
+          "text": "Show me the different engine configurations offered in the Chevrolet Silverado 1500."
+        },
+        {
+          "text": "Show me the safety features included in the standard package of the Subaru Crosstrek."
+        },
+        {
+          "text": "What are the available infotainment options in the Ford Explorer?"
+        },
+        {
+          "text": "What are the available paint color options for the Tesla Model Y?"
+        },
+        {
+          "text": "What are the customization options available for the interior upholstery in the Lexus RX?"
+        },
+        {
+          "text": "What are the safety features offered by the Volvo XC90?"
+        },
+        {
+          "text": "What engine options are available for the Ford Mustang?"
+        }
+      ]
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You've been so helpful :)"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "model",
+      "examples": [
+        {
+          "text": "Are there any collectible model cars in your inventory?"
+        },
+        {
+          "text": "Are there any limited edition model cars available?"
+        },
+        {
+          "text": "Are there any miniature car models in stock?"
+        },
+        {
+          "text": "Are there any model car kits available for assembly?"
+        },
+        {
+          "text": "Are there any new arrivals in the model car section?"
+        },
+        {
+          "text": "Can you provide information on the pricing of model cars?"
+        },
+        {
+          "text": "Can you recommend any popular model car brands?"
+        },
+        {
+          "text": "Can you show me where the model car accessories are?"
+        },
+        {
+          "text": "Can you show me your collection of model cars?"
+        },
+        {
+          "text": "Can you tell me about the selection of model cars you have?"
+        },
+        {
+          "text": "Could you assist me in finding a particular model car?"
+        },
+        {
+          "text": "Could you point me towards the section with model cars?"
+        },
+        {
+          "text": "Do you carry model cars for sale?"
+        },
+        {
+          "text": "Do you have any model cars available?"
+        },
+        {
+          "text": "Do you have any remote-controlled model cars?"
+        },
+        {
+          "text": "Do you have any vintage model cars for sale?"
+        },
+        {
+          "text": "Do you offer a variety of model car options?"
+        },
+        {
+          "text": "Do you offer model cars of specific makes and models?"
+        },
+        {
+          "text": "give me all models"
+        },
+        {
+          "text": "Give me all models about BMW"
+        },
+        {
+          "text": "give me models"
+        },
+        {
+          "text": "model"
+        },
+        {
+          "text": "models"
+        },
+        {
+          "text": "models Volkswagen "
+        },
+        {
+          "text": "please, what models exist"
+        },
+        {
+          "text": "What scales of model cars do you carry?"
+        },
+        {
+          "text": "Where can I find model cars in your store?"
+        }
+      ],
+      "description": "Asking for car's model"
+    },
+    {
+      "intent": "Model_comparison",
+      "examples": [
+        {
+          "text": "Can you contrast the features of these two cars?"
+        },
+        {
+          "text": "Can you give me an overview of the competing features between these two cars?"
+        },
+        {
+          "text": "Can you give me an overview of the options available for the Subaru Outback and the Ford Explorer?"
+        },
+        {
+          "text": "Can you outline the pros and cons of each car for comparison?"
+        },
+        {
+          "text": "Can you provide a comparison between these two vehicles?"
+        },
+        {
+          "text": "Can you provide a side-by-side comparison of the interior features of these two cars?"
+        },
+        {
+          "text": "Car A boasts a higher horsepower compared to Car B."
+        },
+        {
+          "text": "Compare the safety features of the Toyota RAV4 and the Honda CR-V."
+        },
+        {
+          "text": "Compare the standard warranty coverage of the Volkswagen Atlas and the Toyota Sienna."
+        },
+        {
+          "text": "Compare the technology options available in the Hyundai Sonata and the Kia Optima."
+        },
+        {
+          "text": "Compare the Toyota Corolla and the Honda Civic."
+        },
+        {
+          "text": "Could you break down the safety features of each car for comparison?"
+        },
+        {
+          "text": "Could you compare and contrast these two car models?"
+        },
+        {
+          "text": "Could you highlight the similarities and differences between these two cars?"
+        },
+        {
+          "text": "How does the pricing of these two cars compare?"
+        },
+        {
+          "text": "How do the performance metrics of these two cars stack up against each other?"
+        },
+        {
+          "text": "How do these two cars compare?"
+        },
+        {
+          "text": "How do the specifications of these two cars differ?"
+        },
+        {
+          "text": "How do the warranties offered by these two cars compare?"
+        },
+        {
+          "text": "I'm interested in comparing the towing capacity of the GMC Sierra and the Ford F-150."
+        },
+        {
+          "text": "I want to compare the features of the Tesla Model S and the Chevrolet Bolt."
+        },
+        {
+          "text": "I want to see a side-by-side comparison of the fuel efficiency of the Chevrolet Bolt and the Nissan Leaf."
+        },
+        {
+          "text": "I want to see how the resale value of the Jeep Wrangler compares to the Ford Bronco."
+        },
+        {
+          "text": "Show me a comparison of the interior dimensions of the Toyota Highlander and the Honda Pilot."
+        },
+        {
+          "text": "What are the consumer reviews saying about these two cars in comparison to each other?"
+        },
+        {
+          "text": "What are the differences between the BMW X5 and the Mercedes-Benz GLE?"
+        },
+        {
+          "text": "What are the differences between these two cars?"
+        },
+        {
+          "text": "What are the differences in available trim levels between the Chevrolet Silverado and the Ram 1500?"
+        },
+        {
+          "text": "What are the differences in cargo space between the Subaru Outback and the Ford Escape?"
+        },
+        {
+          "text": "What are the driving experiences like in these two cars, and how do they compare?"
+        },
+        {
+          "text": "What are the fuel efficiency ratings for these two cars, and how do they compare?"
+        },
+        {
+          "text": "What are the key factors to consider when comparing these two cars?"
+        },
+        {
+          "text": "What are the performance differences between the BMW 3 Series and the Mercedes-Benz C-Class?"
+        },
+        {
+          "text": "What are the pros and cons of the Toyota RAV4 compared to the Nissan Rogue?"
+        },
+        {
+          "text": "What distinguishes one car from the other?"
+        },
+        {
+          "text": "What sets these two cars apart from each other?"
+        }
+      ],
+      "description": "to compare two cars"
+    },
+    {
+      "intent": "Model_search",
+      "examples": [
+        {
+          "text": "Can you give me information about BMW "
+        },
+        {
+          "text": "Can you provide details about the different models of the Chevrolet Tahoe?"
+        },
+        {
+          "text": "Can you provide details about the Honda Civic?"
+        },
+        {
+          "text": "Can you provide details on the sports car models available from Porsche?"
+        },
+        {
+          "text": "Can you tell me about the compact car lineup from Honda?"
+        },
+        {
+          "text": "Can you tell me about the electric crossover models from Tesla?"
+        },
+        {
+          "text": "give me generale infor about BMW "
+        },
+        {
+          "text": "give me information about bmw "
+        },
+        {
+          "text": "I'm curious about the compact SUV options available from Kia."
+        },
+        {
+          "text": "I'm curious about the electric vehicle options available from Tesla."
+        },
+        {
+          "text": "I'm interested in learning about the crossover SUV lineup from Subaru."
+        },
+        {
+          "text": "I'm interested in learning about the Ford Mustang lineup."
+        },
+        {
+          "text": "I'm looking for information on hybrid SUVs."
+        },
+        {
+          "text": "I want to explore the hatchback models from Volkswagen."
+        },
+        {
+          "text": "I want to explore the luxury car models from Lexus."
+        },
+        {
+          "text": "I would like information about the Toyota Camry."
+        },
+        {
+          "text": "List all the pickup truck models from Ford."
+        },
+        {
+          "text": "List all the sedan models from Hyundai."
+        },
+        {
+          "text": "Please give me details about the convertible car models offered by BMW."
+        },
+        {
+          "text": "Please give me information on the hybrid car models from Toyota."
+        },
+        {
+          "text": "Provide information on the hybrid SUV models offered by Toyota."
+        },
+        {
+          "text": "quelle sont les infos sur BMW ?"
+        },
+        {
+          "text": "Show me information about the luxury SUV models from Range Rover."
+        },
+        {
+          "text": "Show me information on the latest Toyota Highlander models."
+        },
+        {
+          "text": "What are the different models of electric cars offered by Nissan?"
+        },
+        {
+          "text": "What are the latest sedan models released by Audi?"
+        },
+        {
+          "text": "What car models are available from BMW?"
+        },
+        {
+          "text": "What is the latest model from Audi?"
+        },
+        {
+          "text": "What SUV models does Jeep currently offer?"
+        },
+        {
+          "text": "What truck models are available from GMC?"
+        }
+      ]
+    },
+    {
+      "intent": "Performances",
+      "examples": [
+        {
+          "text": "Can you describe its performance?"
+        },
+        {
+          "text": "Can you elaborate on its performance metrics?"
+        },
+        {
+          "text": "Can you give me an overview of its performance?"
+        },
+        {
+          "text": "Can you quantify its performance?"
+        },
+        {
+          "text": "Could you describe its performance characteristics?"
+        },
+        {
+          "text": "Could you detail its performance capabilities?"
+        },
+        {
+          "text": "Could you provide information on its performance?"
+        },
+        {
+          "text": "describe"
+        },
+        {
+          "text": "How consistent is its performance?"
+        },
+        {
+          "text": "How does it fare in terms of performance?"
+        },
+        {
+          "text": "How does it perform?"
+        },
+        {
+          "text": "How does its performance compare to others?"
+        },
+        {
+          "text": "How reliable is its performance?"
+        },
+        {
+          "text": "How well does it perform?"
+        },
+        {
+          "text": "What are its performance specifications?"
+        },
+        {
+          "text": "What performance benchmarks does it meet?"
+        },
+        {
+          "text": "What's its performance level?"
+        },
+        {
+          "text": "What's the performance assessment?"
+        },
+        {
+          "text": "What's the performance like?"
+        },
+        {
+          "text": "What's the performance rating?"
+        },
+        {
+          "text": "What's the performance track record?"
+        }
+      ],
+      "description": "asking for Performance"
+    },
+    {
+      "intent": "Price",
+      "examples": [
+        {
+          "text": "Can you inform me of the price?"
+        },
+        {
+          "text": "Can you provide the price details?"
+        },
+        {
+          "text": "Can you tell me the price?"
+        },
+        {
+          "text": "Could you disclose the price?"
+        },
+        {
+          "text": "Could you give me the price quote?"
+        },
+        {
+          "text": "How does it fare in terms of pricing?"
+        },
+        {
+          "text": "How does the price compare to similar options?"
+        },
+        {
+          "text": "How expensive is it?"
+        },
+        {
+          "text": "How much am I looking at?"
+        },
+        {
+          "text": "How much does it cost?"
+        },
+        {
+          "text": "How much do I need to pay?"
+        },
+        {
+          "text": "what is the price ?"
+        },
+        {
+          "text": "What's the asking price?"
+        },
+        {
+          "text": "What's the cost?"
+        },
+        {
+          "text": "What's the current price?"
+        },
+        {
+          "text": "What's the price estimate?"
+        },
+        {
+          "text": "What's the price point?"
+        },
+        {
+          "text": "What's the price range?"
+        },
+        {
+          "text": "What's the price status?"
+        },
+        {
+          "text": "What's the price tag?"
+        },
+        {
+          "text": "What's the pricing?"
+        }
+      ],
+      "description": "asking for price"
+    },
+    {
+      "intent": "Reliability",
+      "examples": [
+        {
+          "text": "Can you give me an idea of how reliable this car is?"
+        },
+        {
+          "text": "Can you provide any insights into the car's reliability over time?"
+        },
+        {
+          "text": "Can you provide information on the car's reliability rating?"
+        },
+        {
+          "text": "Can you shed some light on the reliability performance of this car?"
+        },
+        {
+          "text": "Can you tell me about the car's reliability?"
+        },
+        {
+          "text": "Could you describe the car's reliability history?"
+        },
+        {
+          "text": "Could you discuss the reliability factors associated with this car?"
+        },
+        {
+          "text": "Could you give me some information regarding the car's reliability tests or studies?"
+        },
+        {
+          "text": "How dependable is this vehicle?"
+        },
+        {
+          "text": "How does this car fare in terms of reliability compared to others in its class?"
+        },
+        {
+          "text": "How reliable is this car?"
+        },
+        {
+          "text": "How trustworthy is this vehicle in terms of reliability?"
+        },
+        {
+          "text": "Is reliability a strong point for this car?"
+        },
+        {
+          "text": "Is this car known for its reliability?"
+        },
+        {
+          "text": "What can you tell me about the real-world reliability experiences of owners of this car?"
+        },
+        {
+          "text": "What's the reliability assessment for this car?"
+        },
+        {
+          "text": "What's the reliability like on this model?"
+        },
+        {
+          "text": "What's the reliability record of this particular model?"
+        },
+        {
+          "text": "What's the reputation for reliability of this car?"
+        },
+        {
+          "text": "What's the track record for reliability on this make and model?"
+        }
+      ],
+      "description": "Asking for car's Reliability"
+    },
+    {
+      "intent": "suggestion",
+      "examples": [
+        {
+          "text": "Any ideas or suggestions?"
+        },
+        {
+          "text": "Any thoughts on what I should consider?"
+        },
+        {
+          "text": "Can you provide some insight or suggestions?"
+        },
+        {
+          "text": "Can you recommend something?"
+        },
+        {
+          "text": "Could you assist me by suggesting something?"
+        },
+        {
+          "text": "Could you give me some suggestions?"
+        },
+        {
+          "text": "Could you offer some guidance or suggestions?"
+        },
+        {
+          "text": "Could you suggest something?"
+        },
+        {
+          "text": "Do you have any recommendations for me?"
+        },
+        {
+          "text": "Do you have any suggestions?"
+        },
+        {
+          "text": "I'm interested in your input, what suggestions do you have?"
+        },
+        {
+          "text": "I'm looking for suggestions, could you help?"
+        },
+        {
+          "text": "I'm open to ideas, what do you suggest?"
+        },
+        {
+          "text": "I'm open to suggestions, do you have any recommendations?"
+        },
+        {
+          "text": "I'm seeking advice, what's your suggestion?"
+        },
+        {
+          "text": "In your opinion, what would be a good suggestion?"
+        },
+        {
+          "text": "What are your suggestions?"
+        },
+        {
+          "text": "What do you suggest?"
+        },
+        {
+          "text": "What's your take on this? Any suggestions?"
+        },
+        {
+          "text": "What would you propose?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sustainability_durabilité",
+      "examples": [
+        {
+          "text": "Asking for sustainability"
+        },
+        {
+          "text": "Can you discuss the company's commitment to sustainability?"
+        },
+        {
+          "text": "Can you elaborate on the sustainability efforts being made?"
+        },
+        {
+          "text": "Can you explain the sustainability strategy being employed here?"
+        },
+        {
+          "text": "Can you provide information on the sustainability of this project?"
+        },
+        {
+          "text": "Can you provide insights into the sustainability initiatives in place?"
+        },
+        {
+          "text": "Could you discuss the sustainability practices involved?"
+        },
+        {
+          "text": "How does this company prioritize sustainability?"
+        },
+        {
+          "text": "How does this initiative address social and environmental sustainability?"
+        },
+        {
+          "text": "How does this plan contribute to overall sustainability?"
+        },
+        {
+          "text": "How does this product align with sustainability principles?"
+        },
+        {
+          "text": "How environmentally friendly is this initiative?"
+        },
+        {
+          "text": "How sustainable is this product?"
+        },
+        {
+          "text": "sustainability"
+        },
+        {
+          "text": "What are the sustainability goals of this organization?"
+        },
+        {
+          "text": "What impact does this project have on environmental sustainability?"
+        },
+        {
+          "text": "What is being done to promote sustainability in this venture?"
+        },
+        {
+          "text": "What measures are being taken to ensure long-term sustainability?"
+        },
+        {
+          "text": "What role does sustainability play in the decision-making process?"
+        },
+        {
+          "text": "What steps are being taken to improve sustainability performance?"
+        },
+        {
+          "text": "What steps have been implemented to ensure sustainability?"
+        },
+        {
+          "text": "What sustainability measures have been taken?"
+        }
+      ],
+      "description": "Asking for sustainability"
+    },
+    {
+      "intent": "thank_you",
+      "examples": [
+        {
+          "text": "I appreciate it"
+        },
+        {
+          "text": "I'm grateful"
+        },
+        {
+          "text": "I'm thankful for your help"
+        },
+        {
+          "text": "I owe you one"
+        },
+        {
+          "text": "Many thanks"
+        },
+        {
+          "text": "Much obliged"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thanks a lot"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Thank you very much"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Audi_model",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "A1",
+          "synonyms": [
+            "A1"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "A3",
+          "synonyms": [
+            "A3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "A4",
+          "synonyms": [
+            "A4"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "A5",
+          "synonyms": [
+            "A5"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "A6",
+          "synonyms": [
+            "A6"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "A7",
+          "synonyms": [
+            "A7"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "A8",
+          "synonyms": [
+            "A8"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Q2",
+          "synonyms": [
+            "Q2"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Q3",
+          "synonyms": [
+            "Q3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Q5",
+          "synonyms": [
+            "Q5"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Q7",
+          "synonyms": [
+            "Q7"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Q8",
+          "synonyms": [
+            "Q8"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "R8",
+          "synonyms": [
+            "R8"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "TT",
+          "synonyms": [
+            "TT"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "BMW_Models",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Ix",
+          "synonyms": [
+            "Ix"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ix1",
+          "synonyms": [
+            "Ix1"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ix2",
+          "synonyms": [
+            "Ix2"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ix3",
+          "synonyms": [
+            "Ix3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "XM",
+          "synonyms": [
+            "XM"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Z4",
+          "synonyms": [
+            "z4"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Car_brand",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Acura",
+          "synonyms": [
+            "Acura"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Alfa Romeo",
+          "synonyms": [
+            "Alfa Romeo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Audi",
+          "synonyms": [
+            "Audi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bentley",
+          "synonyms": [
+            "Bentley"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BMW",
+          "synonyms": [
+            "BMW"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bugatti",
+          "synonyms": [
+            "Bugatti"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Buick",
+          "synonyms": [
+            "Buick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cadillac",
+          "synonyms": [
+            "Cadillac"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chevrolet",
+          "synonyms": [
+            "Chevrolet",
+            "Chevy"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chrysler",
+          "synonyms": [
+            "Chrysler"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ferrari",
+          "synonyms": [
+            "Ferrari"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fiat",
+          "synonyms": [
+            "Fiat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ford",
+          "synonyms": [
+            "Ford"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Genesis",
+          "synonyms": [
+            "Genesis"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GMC",
+          "synonyms": [
+            "GMC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Honda",
+          "synonyms": [
+            "Honda"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Hyundai",
+          "synonyms": [
+            "Hyundai"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Infiniti",
+          "synonyms": [
+            "Infiniti"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Jaguar",
+          "synonyms": [
+            "Jaguar"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Jeep",
+          "synonyms": [
+            "Jeep"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Kia",
+          "synonyms": [
+            "Kia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lamborghini",
+          "synonyms": [
+            "Lamborghini"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Land Rover",
+          "synonyms": [
+            "Land Rover"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lexus",
+          "synonyms": [
+            "Lexus"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lincoln",
+          "synonyms": [
+            "Lincoln"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lotus",
+          "synonyms": [
+            "Lotus"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maserati",
+          "synonyms": [
+            "Maserati"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mazda",
+          "synonyms": [
+            "Mazda"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "McLaren",
+          "synonyms": [
+            "McLaren"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mercedes-Benz",
+          "synonyms": [
+            "MB",
+            "Mercedes",
+            "Mercedes Benz"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mini",
+          "synonyms": [
+            "Mini"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mitsubishi",
+          "synonyms": [
+            "Mitsubishi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nissan",
+          "synonyms": [
+            "Nissan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Porsche",
+          "synonyms": [
+            "Porsche"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Rolls-Royce",
+          "synonyms": [
+            "Rolls-Royce"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Subaru",
+          "synonyms": [
+            "Subaru"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tesla",
+          "synonyms": [
+            "Tesla"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Toyota",
+          "synonyms": [
+            "Toyota"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Volkswagen",
+          "synonyms": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Volvo",
+          "synonyms": [
+            "Volvo"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Car_model",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "AMG GT",
+          "synonyms": [
+            "AMG GT"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CLA",
+          "synonyms": [
+            "CLA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Classe A",
+          "synonyms": [
+            "Classe A"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Classe B",
+          "synonyms": [
+            "Classe B"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Classe C",
+          "synonyms": [
+            "Classe C"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Classe E",
+          "synonyms": [
+            "Classe E"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Classe G",
+          "synonyms": [
+            "Classe G"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Classe S",
+          "synonyms": [
+            "Classe S"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CLS",
+          "synonyms": [
+            "CLS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "EQC",
+          "synonyms": [
+            "EQC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "G-Class",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "GLA",
+          "synonyms": [
+            "GLA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GLB",
+          "synonyms": [
+            "GLB"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GLC",
+          "synonyms": [
+            "GLC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GLE",
+          "synonyms": [
+            "GLE"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GLS",
+          "synonyms": [
+            "GLS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 1",
+          "synonyms": [
+            "Serie 1",
+            "serie1",
+            "Series 1",
+            "Series1"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 2",
+          "synonyms": [
+            "Series 2"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 3",
+          "synonyms": [
+            "Series 3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 4",
+          "synonyms": [
+            "Series 4"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 5",
+          "synonyms": [
+            "Series 5"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 6",
+          "synonyms": [
+            "Series 6"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 7",
+          "synonyms": [
+            "Series 7"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Series 8",
+          "synonyms": [
+            "Series 8"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "x1",
+          "synonyms": [
+            "X1"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "X2",
+          "synonyms": [
+            "x2"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "X3",
+          "synonyms": [
+            "x3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "X4",
+          "synonyms": [
+            "x4"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "X5",
+          "synonyms": [
+            "x5"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "X6",
+          "synonyms": [
+            "x6"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "X7",
+          "synonyms": [
+            "x7"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Features",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "360-degree camera",
+          "synonyms": [
+            "Surround-view camera",
+            "Top-view camera"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ABS",
+          "synonyms": [
+            "Anti-lock braking system",
+            "Brake assist",
+            "Electronic brakeforce distribution"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Adaptive cruise control",
+          "synonyms": [
+            "Adaptive cruise",
+            "Cruise control"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Airbags",
+          "synonyms": [
+            "Airbag system",
+            "Driver airbag",
+            "Passenger airbag",
+            "Side airbags"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Apple CarPlay",
+          "synonyms": [
+            "Android Auto",
+            "Mobile connectivity",
+            "Smartphone integration"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Auto climate control",
+          "synonyms": [
+            "Dual-zone climate control",
+            "Tri-zone climate control"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Backup camera",
+          "synonyms": [
+            "Parking camera",
+            "Rearview camera",
+            "Reversing camera"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Blind spot monitoring",
+          "synonyms": [
+            "Blind spot assist",
+            "Blind spot detection"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bluetooth",
+          "synonyms": [
+            "Bluetooth connectivity",
+            "Hands-free calling",
+            "Wireless connectivity"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ESC",
+          "synonyms": [
+            "Electronic stability control",
+            "Stability control",
+            "Traction control"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Harman Kardon sound system",
+          "synonyms": [
+            "High-end sound system",
+            "Premium audio system"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Keyless entry",
+          "synonyms": [
+            "Keyless ignition",
+            "Keyless start",
+            "Remote start"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lane departure warning",
+          "synonyms": [
+            "Lane centering",
+            "Lane keeping assist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Leather seats",
+          "synonyms": [
+            "Heated seats",
+            "Leather upholstery",
+            "Power-adjustable seats"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "LED headlights",
+          "synonyms": [
+            "LED fog lights",
+            "LED lighting",
+            "LED taillights"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Navigation",
+          "synonyms": [
+            "GPS navigation system",
+            "Navigation app",
+            "Navigation system"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Power liftgate",
+          "synonyms": [
+            "Electronic tailgate",
+            "Hands-free liftgate",
+            "Power tailgate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sunroof",
+          "synonyms": [
+            "Moonroof",
+            "Panoramic roof",
+            "Sun/moon roof"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "TPMS",
+          "synonyms": [
+            "Low tire pressure warning",
+            "Tire pressure monitoring system"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Wireless charging",
+          "synonyms": [
+            "Inductive charging",
+            "Wireless phone charger"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Fuel_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Bio-diesel",
+          "synonyms": [
+            "Biodiesel blend",
+            "Green diesel",
+            "Second-generation bio-diesel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bioethanol",
+          "synonyms": [
+            "Biofuel",
+            "Cellulosic ethanol",
+            "Second-generation ethanol"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Diesel",
+          "synonyms": [
+            "Biodiesel",
+            "Bluetec",
+            "Diesel fuel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Electric",
+          "synonyms": [
+            "Electric car",
+            "Electric vehicle",
+            "Zero-emission vehicle",
+            "ZEV"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ethanol",
+          "synonyms": [
+            "E85",
+            "Ethanol blend",
+            "Flex-fuel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Gasoline",
+          "synonyms": [
+            "Petrol",
+            "Premium unleaded",
+            "Regular unleaded",
+            "Super unleaded"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Hybrid",
+          "synonyms": [
+            "HEV",
+            "Hybrid-electric",
+            "PHEV",
+            "Plug-in hybrid"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Hydrogen",
+          "synonyms": [
+            "Fuel cell",
+            "Hydrogen fuel cell",
+            "Hydrogen-powered"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "LPG",
+          "synonyms": [
+            "Liquefied petroleum gas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Natural gas",
+          "synonyms": [
+            "CNG",
+            "Compressed natural gas"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Porsche_model",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "718 Boxster",
+          "synonyms": [
+            "718 Boxster"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "718 Cayman",
+          "synonyms": [
+            "718 Cayman"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "911",
+          "synonyms": [
+            "911"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "918 Spyder",
+          "synonyms": [
+            "918 Spyder"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cayenne",
+          "synonyms": [
+            "Cayenne"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Macan",
+          "synonyms": [
+            "Macan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Panamera",
+          "synonyms": [
+            "Panamera"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Taycan",
+          "synonyms": [
+            "Taycan"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Price_car",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Affordable",
+          "synonyms": [
+            "Accessible",
+            "Bargain",
+            "Competitive",
+            "Good deal",
+            "Reasonable",
+            "Value for money"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Budget-friendly",
+          "synonyms": [
+            "Cost-effective",
+            "Inexpensive",
+            "Reasonably priced",
+            "Wallet-friendly"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Discount",
+          "synonyms": [
+            "Bargain",
+            "Deal",
+            "Marked-down",
+            "Sale",
+            "Special offer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Economic",
+          "synonyms": [
+            "Austerity",
+            "Budget-conscious",
+            "Frugal",
+            "Sensible",
+            "Thrifty"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Expensive",
+          "synonyms": [
+            "Extravagant",
+            "Fancy",
+            "High-priced",
+            "Lavish",
+            "Luxurious",
+            "Top-notch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "High-end",
+          "synonyms": [
+            "Expensive",
+            "High cost",
+            "Luxury",
+            "Premium",
+            "Top-of-the-line",
+            "Top-tier"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Low budget",
+          "synonyms": [
+            "Affordable",
+            "Cheap",
+            "Economical",
+            "Entry-level",
+            "Low cost"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Luxury",
+          "synonyms": [
+            "Deluxe",
+            "Exclusive",
+            "Fancy",
+            "High-end",
+            "Top-of-the-line"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mid-range",
+          "synonyms": [
+            "Medium budget",
+            "Moderate cost",
+            "Moderate price",
+            "Reasonable price"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Steep",
+          "synonyms": [
+            "High-cost",
+            "High-priced",
+            "Overpriced",
+            "Pricey"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Value-oriented",
+          "synonyms": [
+            "Good price",
+            "Great value",
+            "Reasonably-priced"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Reviews_and_ratings",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1 star",
+          "synonyms": [
+            "1-star rating",
+            "Disappointing",
+            "Terrible",
+            "Very poor"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2 stars",
+          "synonyms": [
+            "2-star rating",
+            "Below average",
+            "Not recommended",
+            "Unsatisfactory"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "3 stars",
+          "synonyms": [
+            "3-star rating",
+            "Average",
+            "Neutral",
+            "Okay"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "4 stars",
+          "synonyms": [
+            "4-star rating",
+            "Good",
+            "Positive",
+            "Very good"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "5 stars",
+          "synonyms": [
+            "5-star rating",
+            "Excellent",
+            "Highly recommended",
+            "Top-rated"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Negative reviews",
+          "synonyms": [
+            "Critical feedback",
+            "Low ratings",
+            "Poor reviews",
+            "Unsatisfactory ratings"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Online reviews",
+          "synonyms": [
+            "Internet feedback",
+            "Online ratings",
+            "Web ratings",
+            "Web reviews"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Positive reviews",
+          "synonyms": [
+            "Excellent ratings",
+            "Favorable feedback",
+            "Glowing reviews",
+            "High ratings"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Professional reviews",
+          "synonyms": [
+            "Critic ratings",
+            "Critic reviews",
+            "Expert feedback",
+            "Expert ratings"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "User reviews",
+          "synonyms": [
+            "Consumer feedback",
+            "Customer ratings",
+            "Customer reviews",
+            "User ratings"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "Technical_characteristics",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "0-60 mph time",
+          "synonyms": [
+            "0-60 mph time",
+            "Acceleration from 0 to 60 mph"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Acceleration",
+          "synonyms": [
+            "Acceleration"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Brake type",
+          "synonyms": [
+            "Brake type"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cargo space",
+          "synonyms": [
+            "Cargo space",
+            "Trunk space"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "characteristics",
+          "synonyms": [
+            "caracteristique"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Curb weight",
+          "synonyms": [
+            "Curb weight"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Drive type",
+          "synonyms": [
+            "Drive type"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Engine displacement",
+          "synonyms": [
+            "Engine displacement",
+            "Engine size"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fuel economy",
+          "synonyms": [
+            "Fuel economy",
+            "Fuel efficiency"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fuel tank capacity",
+          "synonyms": [
+            "Fuel tank capacity",
+            "Gas tank capacity"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fuel type",
+          "synonyms": [
+            "Fuel type",
+            "Type of fuel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ground clearance",
+          "synonyms": [
+            "Ground clearance"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Horsepower",
+          "synonyms": [
+            "Horsepower",
+            "HP"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maximum towing capacity",
+          "synonyms": [
+            "Maximum towing capacity",
+            "Towing capacity"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Number of cylinders",
+          "synonyms": [
+            "Cylinder count",
+            "Number of cylinders"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Seating capacity",
+          "synonyms": [
+            "Number of seats",
+            "Seating capacity"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Suspension type",
+          "synonyms": [
+            "Suspension type"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Top speed",
+          "synonyms": [
+            "Maximum speed",
+            "Top speed"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Torque",
+          "synonyms": [
+            "Torque"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Transmission type",
+          "synonyms": [
+            "Transmission type"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Warranty",
+          "synonyms": [
+            "Warranty"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Wheelbase",
+          "synonyms": [
+            "Wheelbase"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Volkswagen_model",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Caddy",
+          "synonyms": [
+            "Caddy"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Golf",
+          "synonyms": [
+            "Golf"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Jetta",
+          "synonyms": [
+            "Jetta"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Passat",
+          "synonyms": [
+            "Passat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Polo",
+          "synonyms": [
+            "Polo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tiguan",
+          "synonyms": [
+            "Tiguan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Touareg",
+          "synonyms": [
+            "Touareg"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Year_of_manufacture",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1990",
+          "synonyms": [
+            "1990",
+            "90"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1991",
+          "synonyms": [
+            "1991",
+            "91"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1992",
+          "synonyms": [
+            "1992",
+            "92"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1993",
+          "synonyms": [
+            "1993",
+            "93"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1994",
+          "synonyms": [
+            "1994",
+            "94"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1995",
+          "synonyms": [
+            "1995",
+            "95"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1996",
+          "synonyms": [
+            "1996",
+            "96"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1997",
+          "synonyms": [
+            "1997",
+            "97"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1998",
+          "synonyms": [
+            "1998",
+            "98"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1999",
+          "synonyms": [
+            "1999",
+            "99"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2000",
+          "synonyms": [
+            "00",
+            "2000"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2001",
+          "synonyms": [
+            "01",
+            "2001"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2002",
+          "synonyms": [
+            "02",
+            "2002"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2003",
+          "synonyms": [
+            "03",
+            "2003"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2004",
+          "synonyms": [
+            "04",
+            "2004"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2005",
+          "synonyms": [
+            "05",
+            "2005"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2006",
+          "synonyms": [
+            "06",
+            "2006"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2007",
+          "synonyms": [
+            "07",
+            "2007"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2008",
+          "synonyms": [
+            "08",
+            "2008"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2009",
+          "synonyms": [
+            "09",
+            "2009"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2010",
+          "synonyms": [
+            "10",
+            "2010"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2011",
+          "synonyms": [
+            "11",
+            "2011"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2012",
+          "synonyms": [
+            "12",
+            "2012"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2013",
+          "synonyms": [
+            "13",
+            "2013"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2014",
+          "synonyms": [
+            "14",
+            "2014"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2015",
+          "synonyms": [
+            "15",
+            "2015"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2016",
+          "synonyms": [
+            "16",
+            "2016"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2017",
+          "synonyms": [
+            "17",
+            "2017"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2018",
+          "synonyms": [
+            "18",
+            "2018"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2019",
+          "synonyms": [
+            "19",
+            "2019"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2020",
+          "synonyms": [
+            "20",
+            "2020"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2021",
+          "synonyms": [
+            "2021",
+            "21"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2022",
+          "synonyms": [
+            "2022",
+            "22"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1711756530141",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_9_1711676968155",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1711729805704"
+    },
+    {
+      "type": "standard",
+      "title": "Thank_You ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "with pleasure."
+              },
+              {
+                "text": "It was nothing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#thank_you",
+      "dialog_node": "node_10_1711404422250",
+      "previous_sibling": "node_3_1712501122025"
+    },
+    {
+      "type": "standard",
+      "title": "chercher des ifnos generale sur les voitures ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Model_search",
+      "dialog_node": "node_10_1711405403112",
+      "previous_sibling": "node_2_1711403740411"
+    },
+    {
+      "type": "standard",
+      "parent": "node_6_1711818716032",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand",
+      "dialog_node": "node_10_1711820162475"
+    },
+    {
+      "type": "standard",
+      "title": "greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey ! I'm a car's chatbot , how can i help you ? "
+              },
+              {
+                "text": "Hi , Nice to see you again ! what do you want to know about cars ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_2_1711403740411",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good bye ! "
+              },
+              {
+                "text": "Bye ! "
+              },
+              {
+                "text": "See you ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_2_1711756530141",
+      "previous_sibling": "node_10_1711404422250"
+    },
+    {
+      "type": "standard",
+      "title": "suggérer une voiture",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avant de proposer une voiture, il est important de connaître les besoins et les préférences"
+              },
+              {
+                "text": "Budget: Quel est votre budget pour l'achat ou la location d'une voiture ?\n    Utilisation: Comment comptez-vous utiliser la voiture ? Pour vos trajets quotidiens, pour des voyages en famille, pour des sorties sportives, etc. ?\n    Kilométrage annuel: Combien de kilomètres parcourrez-vous par an ?\n    Nombre de places: Combien de personnes doivent pouvoir voyager dans la voiture ?\n    Type de carrosserie: Préférez-vous une berline, un SUV, un break, un coupé, etc. ?\n    Carburant: Essence, diesel, hybride, électrique ?\n    Transmission: Manuelle ou automatique ?\n    Options: Quelles options sont importantes pour vous ? (Climatisation, GPS, toit ouvrant, etc.)\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#suggestion",
+      "dialog_node": "node_3_1712501122025",
+      "previous_sibling": "node_9_1711737569631"
+    },
+    {
+      "type": "standard",
+      "parent": "node_9_1711737569631",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand:Mercedes-Benz",
+      "dialog_node": "node_4_1711837964640",
+      "previous_sibling": "node_7_1711737582750"
+    },
+    {
+      "type": "standard",
+      "parent": "node_9_1711737569631",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand:Audi",
+      "dialog_node": "node_4_1711841380824",
+      "previous_sibling": "node_7_1711838582507"
+    },
+    {
+      "type": "standard",
+      "title": "comparer deux voitures",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Model_comparison",
+      "dialog_node": "node_6_1711676863282",
+      "previous_sibling": "node_6_1711818716032"
+    },
+    {
+      "type": "standard",
+      "title": "chercher les models de voitures",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#model",
+      "dialog_node": "node_6_1711818716032",
+      "previous_sibling": "node_10_1711405403112"
+    },
+    {
+      "type": "standard",
+      "parent": "node_9_1711737569631",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand:Porsche",
+      "dialog_node": "node_6_1711841427108",
+      "previous_sibling": "node_4_1711841380824"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "En effet, comparer deux voitures est loin d'être une simple formalité. De nombreux facteurs entrent en jeu, et la pondération de chaque critère dépendra de vos besoins et priorités."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711676863282",
+      "conditions": "#Model_comparison",
+      "dialog_node": "node_6_1712618537642",
+      "previous_sibling": "node_9_1711676968155"
+    },
+    {
+      "type": "standard",
+      "parent": "node_9_1711737569631",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand:BMW",
+      "dialog_node": "node_7_1711737582750"
+    },
+    {
+      "type": "standard",
+      "parent": "node_9_1711737569631",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand:Volkswagen",
+      "dialog_node": "node_7_1711838582507",
+      "previous_sibling": "node_4_1711837964640"
+    },
+    {
+      "type": "standard",
+      "title": "specific car's",
+      "parent": "node_10_1711405403112",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Car_brand",
+      "dialog_node": "node_9_1711586659992"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In the world of automobiles, choices abound, each offering their own distinctive features. The diversity of cars on the market often makes the comparison between them both fascinating and complex."
+              },
+              {
+                "text": "In the world of automobiles, there are a multitude of options available to us, each with its own distinct characteristics. The variety of cars available makes comparing them both exciting and tricky."
+              },
+              {
+                "text": "When it comes to automobiles, there are a plethora of choices, each with their own distinctive features. The diversity of vehicles on the market makes the comparison between them both interesting and complex."
+              },
+              {
+                "text": "In the world of cars, there are a multitude of options, each with their own distinct characteristics. The diversity of vehicles available makes the comparison between them as captivating as it is complicated."
+              },
+              {
+                "text": "The automotive industry offers a diversity of choices, each with its own distinctive characteristics. The multitude of cars available makes the comparison between them as fascinating as it is complex."
+              },
+              {
+                "text": "Choosing between two cars or comparing them is not so simple, because each has its own characteristics, strong points as well as weak points."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711676863282",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@Car_brand && @Car_brand || @Car_model && @Car_model",
+      "dialog_node": "node_9_1711676968155"
+    },
+    {
+      "type": "standard",
+      "title": "performance",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Features_and_specifications",
+      "dialog_node": "node_9_1711737569631",
+      "previous_sibling": "node_6_1711676863282"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ferrari, the iconic Italian luxury sports car manufacturer, embodies the pinnacle of automotive passion and performance. With a heritage steeped in racing pedigree, Ferrari has consistently produced some of the world's most desirable and sought-after supercars. From the timeless elegance of the Ferrari 250 GTO to the blistering speed of the LaFerrari hypercar, each Ferrari model exemplifies precision engineering and unparalleled craftsmanship. Beyond its legendary vehicles, Ferrari maintains an exclusive ownership experience, offering personalized services and events for its discerning clientele. As a symbol of Italian excellence and automotive mastery, Ferrari continues to captivate enthusiasts and collectors around the globe."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Ferrari",
+      "dialog_node": "response_10_1711653806298",
+      "previous_sibling": "response_1_1711586900072"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "X3:      \nBody type: compact SUV     \nFuel options: Gasoline, diesel, plug-in hybrid     \nTransmission: All-wheel drive (xDrive)     \nCharacteristics: Comfort, interior space, versatility, advanced technology."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:X3",
+      "dialog_node": "response_10_1711837242933",
+      "previous_sibling": "response_9_1711837221549"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Volkswagen has 29 car models, among these 29 there are : Caddy, Touran, Arteon, Arteon Shooting Brake, ID.4 GTX, Tiguan. . ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": " check the link to see more : https://www.volkswagen-montpellier.fr/gamme-volkswagen-neuve/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1711820162475",
+      "conditions": "@Car_brand:Volkswagen",
+      "dialog_node": "response_10_1712436720630",
+      "previous_sibling": "response_8_1711820260227"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche Macan : Le SUV compact sportif polyvalent\n\nLe Porsche Macan est un SUV compact de luxe offrant un équilibre entre performances, confort, polyvalence et un style résolument Porsche.\nMotorisations:\n\n    Moteur quatre cylindres turbocompressé de 261 ch (Macan et Macan T)\n    V6 biturbo de 380 ch (Macan S)\n    V6 biturbo de 434 ch (Macan GTS)\n\nTechnologies embarquées:\n\n    Système d'infodivertissement Porsche Communication Management (PCM) avec écran tactile central\n    Instrumentation numérique partiellement configurable\n    Connectivité Apple CarPlay et Android Auto\n    Aides à la conduite évoluées : régulateur de vitesse adaptatif, aide au maintien dans la voie, etc.\n\nPoints forts:\n\n    Performances sportives et maniabilité agile pour toutes les variantes\n    Confort de conduite et habitacle luxueux\n    Espace intérieur et de chargement suffisants pour un usage quotidien\n    Style Porsche affirmé et élégant\n    Plusieurs options de motorisation pour répondre à vos besoins (performances, efficience)\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711841427108",
+      "conditions": "@Porsche_model:Macan",
+      "dialog_node": "response_10_1712454952377",
+      "previous_sibling": "response_7_1712454945769"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Toyota, a Japanese automotive giant, stands as a testament to reliability, efficiency, and innovation in the automotive industry. With a storied history spanning over eight decades, Toyota has earned a reputation for producing high-quality vehicles that prioritize longevity and practicality. From the ubiquitous Corolla, known for its affordability and durability, to the versatile and rugged Land Cruiser, Toyota offers a diverse range of vehicles tailored to meet the needs of consumers worldwide. Notably, Toyota has been a trailblazer in hybrid technology with its pioneering Prius, leading the way towards more sustainable transportation options. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Toyota",
+      "dialog_node": "response_1_1711586900072",
+      "previous_sibling": "response_3_1711586849945"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mercedes-Benz, a globally renowned luxury automotive brand, epitomizes a legacy of innovation, luxury, and engineering excellence. With origins tracing back to the invention of the automobile by Karl Benz in 1886, Mercedes-Benz has consistently set the standard for automotive luxury and safety. From iconic models like the S-Class sedan, known for its opulent comfort and cutting-edge technology, to the performance-oriented AMG lineup, Mercedes-Benz offers a diverse range of vehicles tailored to meet the needs of discerning customers worldwide. Beyond its commitment to luxury and performance, Mercedes-Benz is at the forefront of automotive innovation, with advancements in electric and autonomous driving technologies under its EQ sub-brand. With a reputation for quality, sophistication, and reliability, Mercedes-Benz continues to shape the future of mobility while maintaining its position as a symbol of automotive luxury and prestige."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Mercedes-Benz",
+      "dialog_node": "response_1_1711654017733",
+      "previous_sibling": "response_2_1711653995485"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jaguar, a quintessential British luxury car manufacturer, has captivated automotive enthusiasts with its blend of elegance, performance, and craftsmanship since its establishment in 1922. Renowned for producing iconic sports cars like the E-Type, known for its timeless design and exhilarating performance, Jaguar has a rich heritage rooted in motorsport success and automotive innovation. Today, Jaguar offers a diverse lineup of luxury vehicles, including sedans like the XF and XJ, SUVs like the F-PACE and E-PACE, and the all-electric I-PACE, showcasing the brand's commitment to sustainability and cutting-edge technology. With a reputation for blending tradition with modernity, Jaguar continues to evoke passion and excitement among drivers worldwide, embodying the spirit of British sophistication and automotive excellence."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Jaguar",
+      "dialog_node": "response_1_1711654145989",
+      "previous_sibling": "response_7_1711654132435"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Série 5 :\n\n    Type de carrosserie : Berline haut de gamme\n    Options de carburant : Essence, diesel, hybride rechargeable\n    Transmission : Propulsion arrière ou traction intégrale (xDrive)\n    Caractéristiques : Luxe, confort, technologies avancées, performances remarquables."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 5)",
+      "dialog_node": "response_1_1711757152037",
+      "previous_sibling": "response_2_1711757104296"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classe B :      Monospace compact premium     Polyvalence et modularité, confort de conduite"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711837964640",
+      "conditions": "@Car_model:(Classe B)",
+      "dialog_node": "response_1_1711838344875",
+      "previous_sibling": "response_5_1711838089894"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi Q8 : SUV de luxe haut de gamme     Design : Élégant et imposant, avec un style coupé distinctif     Motorisations : Essence, diesel, et hybride, offrant des performances puissantes et une efficacité remarquable     Technologie : Intègre des systèmes d'infodivertissement haut de gamme et des fonctionnalités de conduite semi-autonome avancées     Confort : Intérieur luxueux, spacieux et équipé des dernières technologies de confort     Sécurité : Dotée de nombreuses fonctionnalités de sécurité avancées pour une protection optimale     Polyvalence : Idéale pour les longs trajets confortables et les déplacements de haut niveau     Popularité : Reconnue comme l'un des SUV de luxe les plus recherchés pour son raffinement et son exclusivité     Compétition : Concurrente de modèles tels que la BMW X6 et la Mercedes-Benz GLE Coupé     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment haut de gamme."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:Q8",
+      "dialog_node": "response_1_1712454838590",
+      "previous_sibling": "response_2_1712454833915"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche, a legendary German automaker, is renowned for its precision engineering, performance-oriented design, and rich motorsport heritage. Since its inception in 1931, Porsche has consistently delivered iconic sports cars that blend exhilarating driving dynamics with everyday usability. From the timeless 911, celebrated for its rear-engine layout and distinctive silhouette, to the versatile Cayenne SUV, Porsche offers a diverse lineup catering to a wide range of enthusiasts. Beyond its road cars, Porsche's motorsport success, including numerous victories at Le Mans and in Formula One, underscores its commitment to pushing the limits of performance on and off the track. With a relentless pursuit of innovation, quality, and driving pleasure, Porsche continues to captivate drivers worldwide, embodying the spirit of pure automotive excellence."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Porsche",
+      "dialog_node": "response_2_1711653987730",
+      "previous_sibling": "response_8_1711653938994"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Lamborghini, the pinnacle of Italian automotive passion and extravagance, epitomizes exotic luxury and extreme performance. Founded in 1963 by Ferruccio Lamborghini, the brand quickly gained fame for its striking design, powerful engines, and uncompromising performance. From the iconic Miura to the modern Aventador and Huracán, Lamborghini's lineup exemplifies breathtaking speed, precise handling, and avant-garde styling. Each Lamborghini is a masterpiece of engineering and craftsmanship, pushing the boundaries of automotive design and technology. With a rich heritage in motorsport and an unwavering commitment to automotive excellence, Lamborghini continues to mesmerize enthusiasts and collectors worldwide, embodying audacious innovation and uncompromising performance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Lamborghini",
+      "dialog_node": "response_2_1711653995485",
+      "previous_sibling": "response_2_1711653987730"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Series 4:\n\n     Body type: Coupe, convertible\n     Fuel options: Gasoline, diesel\n     Transmission: Rear-wheel drive or all-wheel drive (xDrive)\n     Features: Distinctive design, dynamic performance, refined luxury."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 4)",
+      "dialog_node": "response_2_1711757104296",
+      "previous_sibling": "response_6_1711757066701"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classe C :      Berline compacte premium     Élégance, performances, luxe moderne"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711837964640",
+      "conditions": "@Car_model:(Classe C)",
+      "dialog_node": "response_2_1711838378634",
+      "previous_sibling": "response_1_1711838344875"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Volkswagen Tiguan : SUV compact     Variantes : Inclut le Tiguan Allspace pour plus de capacité de passagers     Motorisations : Essence, diesel et hybride rechargeable     Technologie : Systèmes avancés d'infodivertissement et d'aide à la conduite     Sécurité : Airbags multiples, freinage d'urgence automatique     Polyvalence : Espace intérieur adaptable, capacités tout-terrain     Popularité : Hautement populaire dans le segment des SUV compacts     Compétition : Concurrent de modèles tels que le Nissan Qashqai et le Honda CR-V     Prix : Variables en fonction de la version et des options choisis"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Tiguan",
+      "dialog_node": "response_2_1711841284342",
+      "previous_sibling": "response_8_1711838629692"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi Q2 : SUV sous-compact     Design : Compact et audacieux avec des éléments de design distinctifs Audi     Motorisations : Essence et diesel, avec des options de performances variées     Technologie : Intègre les dernières avancées en matière d'infodivertissement et d'aides à la conduite     Confort : Intérieur bien aménagé avec des matériaux de qualité et une finition premium     Sécurité : Dotée de nombreuses fonctionnalités de sécurité pour une conduite sûre     Polyvalence : Idéale pour la conduite en ville et les aventures hors route légères     Popularité : Appréciée pour son style urbain, sa maniabilité et sa polyvalence     Compétition : Concurrente de modèles comme la BMW X1 et la Mercedes-Benz GLA     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:Q2",
+      "dialog_node": "response_2_1712454823763",
+      "previous_sibling": "response_6_1712454817439"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi Q7 : SUV de luxe     Design : Imposant et élégant, avec des lignes distinctives de la marque Audi     Motorisations : Essence, diesel, et hybride, offrant des performances et une efficacité remarquables     Technologie : Intègre des systèmes d'infodivertissement haut de gamme et des fonctionnalités de conduite semi-autonome avancées     Confort : Intérieur luxueux, spacieux et équipé des dernières technologies de confort     Sécurité : Dotée de nombreuses fonctionnalités de sécurité avancées pour une protection optimale     Polyvalence : Idéale pour les longs trajets confortables et les déplacements familiaux de haut niveau     Popularité : Reconnue comme l'une des références dans le segment des SUV de luxe pour son raffinement et sa polyvalence     Compétition : Concurrente de modèles tels que la Mercedes-Benz GLE et la BMW X5     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment haut de gamme."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:Q7",
+      "dialog_node": "response_2_1712454833915",
+      "previous_sibling": "response_7_1712454829492"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "BMW, a renowned German automotive manufacturer, has long been synonymous with luxury, performance, and innovation in the automotive industry. With a rich heritage dating back over a century, BMW has consistently set the benchmark for engineering excellence, delivering vehicles that seamlessly blend cutting-edge technology with dynamic driving experiences. From iconic models like the 3 Series and 5 Series to their range-topping luxury vehicles and high-performance M lineup, BMW offers a diverse portfolio catering to various segments of the market. Beyond its commitment to automotive excellence, BMW has also been a pioneer in sustainable mobility, with advancements in electric and hybrid vehicles under its BMW i sub-brand. With a relentless pursuit of innovation and a commitment to delivering the ultimate driving experience, BMW continues to captivate enthusiasts and redefine the standards of automotive luxury worldwide."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Give me all models about BMW",
+                "value": {
+                  "input": {
+                    "text": "Give me all models about BMW"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:BMW",
+      "dialog_node": "response_3_1711586849945"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ford, an American automotive icon, has left an indelible mark on the global automotive industry since its founding in 1903 by Henry Ford. With a legacy rooted in innovation, Ford revolutionized mass production with the introduction of the assembly line, making automobiles accessible to the masses. Over the years, Ford has produced a diverse range of vehicles, from the legendary Model T to the modern-day Mustang and F-Series trucks, which have become cultural touchstones. Known for their durability, performance, and affordability, Ford vehicles are trusted by millions of drivers worldwide. Additionally, Ford has embraced advancements in technology, introducing hybrid and electric vehicles like the Mustang Mach-E, showcasing its commitment to sustainability and innovation. With a steadfast dedication to quality and a pioneering spirit, Ford continues to shape the future of mobility, driving forward with innovation and resilience."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Ford",
+      "dialog_node": "response_3_1711654107824",
+      "previous_sibling": "response_6_1711654048883"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Series 7:\n\n     Body type: Luxury sedan\n     Fuel options: Gasoline, plug-in hybrid\n     Transmission: Rear-wheel drive or all-wheel drive (xDrive)\n     Features: Cutting-edge technologies, high-end finishes, superior comfort."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 7)",
+      "dialog_node": "response_3_1711757213936",
+      "previous_sibling": "response_7_1711757192644"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Series 8:\n\n     Body type: Grand touring coupe, convertible\n     Fuel options: Gasoline, diesel\n     Transmission: Rear-wheel drive or all-wheel drive (xDrive)\n     Features: Sporty style, refined luxury, impressive performance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 8)",
+      "dialog_node": "response_3_1711757295090",
+      "previous_sibling": "response_3_1711757213936"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "X6:      \nBody type: Luxury SUV coupe     \nFuel options: Gasoline, diesel     \nTransmission: All-wheel drive (xDrive)     \nFeatures: Bold design, powerful performance, refined luxury."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:X6",
+      "dialog_node": "response_3_1711837536502",
+      "previous_sibling": "response_9_1711837263292"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Volkswagen Polo : Voiture compacte     Variantes : Variantes sportives comme la Polo GTI     Motorisations : Essence, diesel et électrique     Technologie : Systèmes d'infodivertissement avancés et aides à la conduite     Sécurité : Airbags multiples, systèmes de freinage antiblocage (ABS)     Popularité : Populaire dans le segment des voitures compactes     Compétition : Concurrente de modèles comme la Ford Fiesta et la Renault Clio     Prix : Variables en fonction de la version et des options choisies"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Polo",
+      "dialog_node": "response_3_1711841274145",
+      "previous_sibling": "response_2_1711841284342"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Volkswagen Caddy :Fourgonnette compacte et ludospace\nMotorisations:\n\n    Diesel : 2.0 TDI de 75, 102 et 122 ch\n    Essence : 1.5 TSI de 114 ch\n    Gaz naturel comprimé (GNC) : 1.4 TGI de 110 ch\n\nTechnologie:\n\n    Systèmes d'infodivertissement avancés avec écran tactile\n    Aides à la conduite : freinage d'urgence automatique, régulateur de vitesse adaptatif, etc.\n    Digital Cockpit : tableau de bord numérique\n\nSécurité:\n\n    Airbags multiples\n    Systèmes de freinage antiblocage (ABS) et de contrôle de la stabilité (ESC)\n    Assistance au freinage d'urgence\n    Détecteur de fatigue\n\nPopularité:\n\n    Le Caddy est l'un des fourgons compacts les plus populaires en Europe\n    Il est apprécié pour sa polyvalence, son espace et ses performances\n\nCompétition:\n\n    Ford Transit Connect\n    Renault Kangoo\n    Citroën Berlingo\n    Peugeot Partner\n\nPrix:\n\n    À partir de 235 200 DH pour la version Caddy Cargo\n    À partir de 274 200 DH pour la version Caddy Life\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Caddy",
+      "dialog_node": "response_3_1711841287006",
+      "previous_sibling": "response_3_1711841274145"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most popular AUDI models are: A1 , A3 , A4 ,Q2.\n\nto discover all models : \" https://www.caradisiac.com/auto--audi/modeles/ \""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1711820162475",
+      "conditions": "@Car_brand:Audi",
+      "dialog_node": "response_3_1712436735185",
+      "previous_sibling": "response_10_1712436720630"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A4 : Berline compacte de luxe     Design : Élégant et contemporain, avec des lignes raffinées caractéristiques de la marque Audi     Motorisations : Essence, diesel et hybride, offrant un équilibre entre performances et efficacité énergétique     Technologie : Intègre des systèmes d'infodivertissement avancés et des aides à la conduite de pointe     Confort : Intérieur haut de gamme, spacieux et bien équipé, offrant un niveau élevé de confort et de raffinement     Sécurité : Dotée de nombreuses fonctionnalités de sécurité avancées pour assurer une conduite sécurisée     Polyvalence : Adaptée à la conduite en ville et aux longs trajets, idéale pour une utilisation quotidienne     Popularité : Très appréciée dans le segment des berlines compactes de luxe pour son style, ses performances et son confort     Compétition : Concurrente de modèles tels que la BMW Série 3 et la Mercedes-Benz Classe C     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A4",
+      "dialog_node": "response_3_1712454876793",
+      "previous_sibling": "response_9_1712454865658"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Volkswagen Passat : Berline familiale/mid-size     Motorisations : Essence, diesel, et parfois hybride     Technologie : Équipée de systèmes d'infodivertissement avancés et d'aides à la conduite     Confort : Intérieur spacieux et confortable, adapté aux longs trajets     Sécurité : Dotée de fonctionnalités de sécurité avancées et d'assistances à la conduite     Polyvalence : Convient aux besoins familiaux et professionnels     Popularité : Appréciée pour son confort, sa fiabilité et son design dans le segment des berlines mid-size     Compétition : Concurrente de modèles tels que la Toyota Camry et la Honda Accord     Prix : Variables selon la version et les options choisies, généralement compétitifs dans sa catégorie."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Passat",
+      "dialog_node": "response_4_1711841334681",
+      "previous_sibling": "response_6_1711841328519"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A5 : Coupé de luxe     Design : Élégant et sophistiqué, avec des lignes fluides et un style distinctif de la marque Audi     Motorisations : Essence, diesel et hybride, offrant des performances équilibrées et une efficacité remarquable     Technologie : Intègre des systèmes d'infodivertissement avancés et des aides à la conduite de pointe     Confort : Intérieur raffiné, spacieux et bien équipé, avec des matériaux de haute qualité     Sécurité : Dotée de nombreuses fonctionnalités de sécurité pour une conduite sûre     Polyvalence : Adaptée à la conduite quotidienne et aux longs trajets confortables     Popularité : Très appréciée dans le segment des coupés de luxe pour son style, ses performances et son confort     Compétition : Concurrente de modèles tels que la BMW Série 4 et la Mercedes-Benz Classe C Coupé     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A5",
+      "dialog_node": "response_4_1712454850372",
+      "previous_sibling": "response_9_1712454843599"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Series 2:\n\n     Body type: Coupe, convertible, minivan (Active Tourer)\n     Fuel options: Gasoline, diesel\n     Transmission: Rear-wheel drive or all-wheel drive (xDrive)\n     Features: Elegant design, versatility of body models, efficient engines."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 2)",
+      "dialog_node": "response_5_1711757025374",
+      "previous_sibling": "response_6_1711756899836"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most popular BMW models are:\n\nBerlines et Coupés :      \n- Série 1     Série 2     Série 3     Série 4     Série 5     Série 6     Série 7     Série 8  \n\nVéhicules Utilitaires Sport (SUV) :  \n- X1      X2     X3     X4     X5     X6     X7  \n\nRoadster :\n- Z4\n\nto see all models : \" https://www.caradisiac.com/auto--bmw/modeles/ \""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "recherche voiture par models",
+            "options": [
+              {
+                "label": "Exemple : chercher bmw Series1",
+                "value": {
+                  "input": {
+                    "text": "chercher bmw Series1"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_10_1711820162475",
+      "conditions": "@Car_brand:BMW",
+      "dialog_node": "response_5_1711820234266"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A-Class:      Compact premium     Compact sedan, hatchback     Advanced technology, modern design"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711837964640",
+      "conditions": "@Car_model:(Classe A)",
+      "dialog_node": "response_5_1711838089894"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Volkswagen Touareg : SUV haut de gamme    \n Motorisations : Essence et diesel, parfois hybride     \nTechnologie : Équipé de systèmes d'infodivertissement avancés et de nombreuses aides à la conduite     \nConfort : Intérieur spacieux et luxueux, adapté aux longs trajets     \nPolyvalence : Capacités tout-terrain et adaptées à la conduite en ville     \nSécurité : Fonctionnalités de sécurité avancées et nombreuses assistances à la conduite     Popularité : Apprécié par ceux qui recherchent le luxe et la performance dans un SUV     Compétition : Concurrent de SUV haut de gamme comme l'Audi Q7 et le BMW X5     \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Touareg",
+      "dialog_node": "response_5_1711841320206",
+      "previous_sibling": "response_3_1711841287006"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most popular porsche models are: Porsche 718 ,Porsche 911 , Porsche Panamera. . .\n\nto see all models : \" https://www.caradisiac.com/auto--porsche/modeles/ \""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1711820162475",
+      "conditions": "@Car_brand:Porsche",
+      "dialog_node": "response_5_1712436749144",
+      "previous_sibling": "response_3_1712436735185"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Chevrolet, an iconic American automotive brand, holds a prominent place in the history of the automobile industry. Established in 1911, Chevrolet has been recognized for its commitment to producing reliable, practical, and affordable vehicles. From classic models like the Chevrolet Bel Air and Camaro to contemporary offerings such as the Silverado pickup truck and the versatile Equinox SUV, Chevrolet offers a diverse lineup catering to a wide range of consumers. Renowned for its innovation, Chevrolet has introduced groundbreaking technologies such as the Bolt EV, a fully electric vehicle, and the Corvette Stingray, a high-performance sports car. With a legacy deeply rooted in American culture and a dedication to delivering value and quality, Chevrolet continues to be a driving force in the automotive world, embodying the spirit of ingenuity and dependability."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Chevrolet",
+      "dialog_node": "response_6_1711654048883",
+      "previous_sibling": "response_9_1711654025619"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "BMW model Series 1:\n\n     Body type: Compact sedan\n     Fuel options: Gasoline, diesel\n     Transmission: Rear-wheel drive or all-wheel drive (xDrive)\n     Features: Agile driving dynamics, urban versatility, high-performance engine options."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 1)",
+      "dialog_node": "response_6_1711756899836"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Series 3:\n\n     Body type: Sports sedan\n     Fuel options: Gasoline, diesel, plug-in hybrid\n     Transmission: Rear-wheel drive or all-wheel drive (xDrive)\n     Features: Balance between performance and comfort, advanced technology, dynamic driving."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 3)",
+      "dialog_node": "response_6_1711757066701",
+      "previous_sibling": "response_5_1711757025374"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Volkswagen Jetta : Berline compacte     Motorisations : Essence et diesel     Technologie : Systèmes d'infodivertissement modernes et aides à la conduite disponibles     Confort : Intérieur spacieux et confortable, idéal pour les trajets quotidiens     Sécurité : Équipée de fonctionnalités de sécurité avancées pour assurer la protection des passagers     Popularité : Appréciée pour sa fiabilité et son bon rapport qualité-prix dans le segment des berlines compactes     Compétition : En concurrence avec des modèles tels que la Honda Civic et la Toyota Corolla     Prix : Variables en fonction de la version et des options choisies, généralement compétitifs dans sa catégorie."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Jetta",
+      "dialog_node": "response_6_1711841328519",
+      "previous_sibling": "response_5_1711841320206"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A8 : Berline de luxe     Design : Élégance sophistiquée et lignes épurées     Motorisations : Essence, diesel, et hybride, avec des performances et une efficacité remarquables     Technologie : Dotée de systèmes d'infodivertissement haut de gamme et de fonctionnalités de conduite semi-autonome avancées     Confort : Intérieur luxueux, spacieux et équipé des dernières technologies de confort     Sécurité : Équipée de nombreuses fonctionnalités de sécurité avancées pour assurer une protection optimale     Polyvalence : Idéale pour les longs trajets confortables et les déplacements professionnels de haut niveau     Popularité : Reconnue comme l'une des références dans le segment des berlines de luxe pour son raffinement et son prestige     Compétition : Concurrente de modèles tels que la Mercedes-Benz Classe S et la BMW Série 7     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment haut de gamme."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A8",
+      "dialog_node": "response_6_1712454817439",
+      "previous_sibling": "response_7_1712454809266"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tesla, a trailblazer in the electric vehicle (EV) industry, has revolutionized the automotive landscape with its commitment to sustainable transportation and cutting-edge technology. Founded in 2003 by Elon Musk, Tesla has quickly become synonymous with innovation, luxury, and high-performance EVs. The company's flagship models, such as the Model S, Model 3, Model X, and Model Y, have redefined expectations for electric vehicles, offering impressive range, acceleration, and advanced autonomous driving features. Tesla's Gigafactories, strategically located around the world, further solidify its position as a leader in EV manufacturing and battery technology. Beyond cars, Tesla has expanded into energy storage solutions with products like the Powerwall and Powerpack, aiming to accelerate the world's transition to sustainable energy. With a relentless focus on innovation and a bold vision for the future, Tesla continues to push boundaries and inspire change in the automotive industry and beyond."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Tesla",
+      "dialog_node": "response_7_1711654132435",
+      "previous_sibling": "response_3_1711654107824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Series 6:       Body type: Coupe, convertible, gran coupe      Fuel options: Gasoline, diesel      Transmission: Rear-wheel drive or all-wheel drive (xDrive)      Features: Elegant design, premium performance, cutting-edge technologies."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:(Series 6)",
+      "dialog_node": "response_7_1711757192644",
+      "previous_sibling": "response_1_1711757152037"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classe S :      Berline haut de gamme     Luxe, confort, technologie de pointe"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711837964640",
+      "conditions": "@Car_model:(Classe S)",
+      "dialog_node": "response_7_1711838417042",
+      "previous_sibling": "response_8_1711838392352"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classe G :      Véhicule tout-terrain emblématique     Robustesse, performances hors route, luxe"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711837964640",
+      "conditions": "@Car_model:(Classe G)",
+      "dialog_node": "response_7_1711838443415",
+      "previous_sibling": "response_7_1711838417042"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A1 : Berline sous-compacte     \nDesign : Compacte premium au design dynamique et sportif     \nMotorisations : Essence et diesel, avec des options de performances variées     \nTechnologie : Intègre les dernières avancées en matière d'infodivertissement et d'aides à la conduite     \nConfort : Intérieur bien aménagé avec des matériaux de qualité et une finition haut de gamme    \nSécurité : Dotée de nombreuses fonctionnalités de sécurité pour assurer une conduite sûre     \nPolyvalence : Idéale pour la conduite en ville et les déplacements quotidiens     \nPopularité : Appréciée pour son style, sa maniabilité et sa qualité de construction     Compétition : Concurrente de modèles comme la Mini Cooper et la Ford Fiesta     \nPrix : Variables selon la version, les options et les équipements choisis, typiquement positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A1",
+      "dialog_node": "response_7_1712454797412"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A3 : Berline compacte premium     Design : Élégante et sportive, avec un design distinctif de la marque Audi     Motorisations : Essence, diesel, et parfois hybride, offrant un équilibre entre performances et efficacité     Technologie : Intègre des systèmes d'infodivertissement avancés et des aides à la conduite de pointe     Confort : Intérieur raffiné, confortable et bien équipé, avec des matériaux haut de gamme     Sécurité : Dotée de nombreuses fonctionnalités de sécurité active et passive pour assurer une protection optimale     Polyvalence : Adaptée à la conduite en ville comme sur autoroute, convient à une variété de besoins     Popularité : Très populaire dans le segment des berlines compactes premium, appréciée pour son style et ses performances     Compétition : Concurrente de modèles tels que la BMW Série 1 et la Mercedes-Benz Classe A     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A3",
+      "dialog_node": "response_7_1712454809266",
+      "previous_sibling": "response_7_1712454797412"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi Q3 : SUV compact premium     Design : Élégant et dynamique, avec des traits distinctifs de la marque Audi     Motorisations : Essence, diesel, et parfois hybride, offrant un équilibre entre performances et efficacité     Technologie : Intègre des systèmes d'infodivertissement avancés et des aides à la conduite de pointe     Confort : Intérieur raffiné, spacieux et bien équipé, avec des matériaux de haute qualité     Sécurité : Dotée de nombreuses fonctionnalités de sécurité pour assurer une protection optimale     Polyvalence : Adaptée à la conduite en ville comme sur autoroute, convient à une variété de besoins     Popularité : Très appréciée dans le segment des SUV compacts premium pour son style, ses performances et son confort     Compétition : Concurrente de modèles tels que la BMW X3 et la Mercedes-Benz GLC     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:Q3",
+      "dialog_node": "response_7_1712454829492",
+      "previous_sibling": "response_2_1712454823763"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche Cayenne : Le SUV de luxe polyvalent\n\nLe Porsche Cayenne est un SUV de luxe performant, spacieux et polyvalent, offrant une expérience de conduite sportive sans compromis sur le confort et l'utilité.\n\nMotorisations:\n-Essence V6 turbocompressé de 335 ch (Cayenne)\n-Hybride rechargeable combinant un V6 essence et un moteur électrique pour une puissance combinée de 455 ch (Cayenne E-Hybrid)\n-Essence V6 biturbocompressé de 434 ch (Cayenne S)\n -Hybride rechargeable combinant un V6 essence biturbo et un moteur électrique pour une puissance combinée de 541 ch (Cayenne S E-Hybrid)\n -Hybride rechargeable combinant un V8 essence biturbo et un moteur électrique pour une puissance combinée de 670 ch (Cayenne Turbo E-Hybrid)\n -Essence V8 biturbocompressé de 550 ch (Cayenne Turbo)\n\nTechnologies embarquées:\n\n    -Système d'infodivertissement Porsche Communication Management (PCM) avec grand écran tactile central et écran optionnel pour le passager avant\n   - Instrumentation numérique entièrement configurable\n    -Connectivité Apple CarPlay et Android Auto\n   - Aides à la conduite évoluées : régulateur de vitesse adaptatif, aide au maintien dans la voie, vision nocturne, etc.\n\nPoints forts:\n\n   - Performances dignes d'une Porsche pour toutes les variantes\n   - Habitacle spacieux et luxueux\n   - Polyvalence grâce à l'espace de chargement et aux options de sièges\n   - Technologies embarquées de pointe\n  -  Plusieurs options de motorisation pour répondre à vos besoins (performances, efficience)\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711841427108",
+      "conditions": "@Porsche_model:Cayenne",
+      "dialog_node": "response_7_1712454920760",
+      "previous_sibling": "response_9_1712454911000"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche Panamera : Berline sportive de luxe polyvalente\n\nLa Porsche Panamera est une berline sport de luxe à quatre portes de taille moyenne et polyvalente, offrant des performances exaltantes, un espace intérieur généreux et un design élégant.\nMotorisations:\n\n    V6 biturbo de 330 ch (Panamera)\n    V6 biturbo essence combiné à un moteur électrique pour une puissance combinée de 462 ch (Panamera 4 E-Hybrid)\n    V6 biturbo essence combiné à un moteur électrique pour une puissance combinée de 552 ch (Panamera 4S E-Hybrid)\n    V8 biturbo de 480 ch (Panamera GTS)\n    V8 biturbo essence combiné à un moteur électrique pour une puissance combinée de 690 ch (Panamera Turbo S E-Hybrid)\n\nTechnologies embarquées:\n\n    Système d'infodivertissement Porsche Communication Management (PCM) avec grand écran tactile central et écran optionnel pour le passager avant\n    Instrumentation numérique entièrement configurable\n    Connectivité Apple CarPlay et Android Auto\n    Aides à la conduite évoluées : régulateur de vitesse adaptatif, aide au maintien dans la voie, vision nocturne, etc.\n\nPoints forts:\n\n    Performances et tenue de route exceptionnelles pour toutes les variantes\n    Habitacle spacieux et luxueux offrant un confort pour les 4 passagers\n    Coffre volumineux, pouvant être encore plus grand avec la version Sport Turismo\n    Polyvalence grâce aux différentes options de motorisation (performances, efficience)\n    Technologies embarquées de pointe\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711841427108",
+      "conditions": "@Porsche_model:Panamera",
+      "dialog_node": "response_7_1712454928762",
+      "previous_sibling": "response_7_1712454920760"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche 911 : La légende intemporelle du sport automobile  La Porsche 911 est la sportive emblématique de la marque allemande, reconnue mondialement pour ses performances exaltantes, sa tenue de route exceptionnelle et son design à la fois intemporel et évolutif.\nMotorisations:\n\nLa gamme 911 propose une variété de moteurs à six cylindres à plat biturbo, allant de 385 ch pour la Carrera de base à plus de 650 ch pour la Turbo S.\n\nTechnologies embarquées:\n\n    Système d'infodivertissement Porsche Communication Management (PCM) avec grand écran tactile central\n    Instrumentation numérique entièrement configurable\n    Connectivité Apple CarPlay et Android Auto\n    Aides à la conduite évoluées : régulateur de vitesse adaptatif, aide au maintien dans la voie, vision nocturne, etc.\n\nPoints forts:\n\n    Performances et tenue de route exceptionnelles pour toutes les variantes\n    Design emblématique et intemporel\n    Qualité de fabrication et matériaux haut de gamme\n    Sensations de conduite uniques et engageantes\n    Plusieurs variantes disponibles pour répondre à vos besoins et à votre budget\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711841427108",
+      "conditions": "@Porsche_model:911",
+      "dialog_node": "response_7_1712454945769",
+      "previous_sibling": "response_9_1712454939570"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bugatti, the epitome of automotive luxury and engineering prowess, represents the pinnacle of performance and exclusivity. With a storied history dating back to the early 20th century, Bugatti has consistently pushed the boundaries of speed and innovation. From the iconic Bugatti Veyron to the groundbreaking Chiron, Bugatti's hypercars showcase unparalleled power, precision, and craftsmanship. Each Bugatti model is meticulously crafted, blending cutting-edge technology with exquisite design to create automotive masterpieces. With a limited production run and a price tag reflecting its exclusivity, Bugatti remains a symbol of automotive opulence and sophistication, captivating enthusiasts and collectors worldwide."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Bugatti",
+      "dialog_node": "response_8_1711653938994",
+      "previous_sibling": "response_10_1711653806298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fiat, an Italian automotive manufacturer founded in 1899, has played a pivotal role in shaping the global automotive industry. Known for its iconic designs, practicality, and affordability, Fiat has produced a wide range of vehicles catering to various segments of the market. From compact city cars like the Fiat 500, celebrated for its retro charm and urban agility, to versatile family cars like the Fiat Panda and practical commercial vehicles, Fiat offers a diverse lineup tailored to meet the needs of consumers worldwide. Additionally, Fiat has expanded its portfolio to include electric and hybrid vehicles, reflecting its commitment to sustainability and innovation. With a rich heritage and a reputation for quality and ingenuity, Fiat continues to be a driving force in the automotive world, embodying Italian style and flair."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Fiat",
+      "dialog_node": "response_8_1711654164041",
+      "previous_sibling": "response_1_1711654145989"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most popular mercedes models are:\nClasse A   -  Classe B  -   Classe C  - Classe E  -   Classe S    - CLA    - CLS  -   GLA   -  GLB     -GLC   -  GLE  -   GLS   -  Classe G   -  AMG GT    -  EQC\nto see all models : \" https://www.caradisiac.com/auto--mercedes/ \""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1711820162475",
+      "conditions": "@Car_brand:Mercedes-Benz",
+      "dialog_node": "response_8_1711820260227",
+      "previous_sibling": "response_5_1711820234266"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "X1:      \nBody type: compact SUV    \n Fuel options: Gasoline, diesel     \nTransmission: Front-wheel drive or all-wheel drive (xDrive)     \nFeatures: Compact design, urban versatility, agile driving."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:x1",
+      "dialog_node": "response_8_1711837060185",
+      "previous_sibling": "response_3_1711757295090"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classe E :      Berline intermédiaire premium     Confort, technologie avancée, espace intérieur"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711837964640",
+      "conditions": "@Car_model:(Classe E)",
+      "dialog_node": "response_8_1711838392352",
+      "previous_sibling": "response_2_1711838378634"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Volkswagen Golf : Voiture compacte\n    Variantes : Inclut la Golf GTI et la Golf R pour les performances sportives\n    Motorisations : Essence, diesel et électrique\n    Technologie : Systèmes avancés d'infodivertissement et d'assistance à la conduite\n    Sécurité : Airbags multiples, systèmes de freinage avancés\n    Popularité : L'une des voitures compactes les plus vendues au monde\n    Compétition : Concurrente de modèles tels que la Ford Focus et la Renault Mégane\n    Prix : Variables selon la version et les options choisies"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711838582507",
+      "conditions": "@Volkswagen_model:Golf",
+      "dialog_node": "response_8_1711838629692"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Audi, the esteemed German automotive manufacturer, is synonymous with luxury, performance, and technological advancement. Founded in 1909, Audi has a rich heritage of engineering excellence and innovation. Known for its sleek design language, meticulous craftsmanship, and cutting-edge technology, Audi offers a diverse range of vehicles catering to various segments of the market. From the iconic Audi A4 and A6 sedans to the versatile Q series SUVs and the high-performance Audi Sport lineup, Audi vehicles are renowned for their dynamic driving experience and refined interiors. Moreover, Audi has been a pioneer in electric mobility, with its Audi e-tron lineup showcasing the brand's commitment to sustainable driving solutions. With a relentless pursuit of excellence and a dedication to customer satisfaction, Audi continues to captivate drivers worldwide, embodying the spirit of progress and sophistication in the automotive industry."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1711586659992",
+      "conditions": "@Car_brand:Audi",
+      "dialog_node": "response_9_1711654025619",
+      "previous_sibling": "response_1_1711654017733"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "X2:      \nBody type: compact sports SUV     \nFuel options: Gasoline, diesel     \nTransmission: Front-wheel drive or all-wheel drive (xDrive)     \nFeatures: Dynamic design, sporty performance, driving agility."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:X2",
+      "dialog_node": "response_9_1711837221549",
+      "previous_sibling": "response_8_1711837060185"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "X5:      \nBody type: high-end SUV     \nFuel options: Gasoline, diesel, plug-in hybrid     \nTransmission: All-wheel drive (xDrive)     \nFeatures: Luxury, comfort, cutting-edge technologies, off-road capabilities."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:X5",
+      "dialog_node": "response_9_1711837263292",
+      "previous_sibling": "response_10_1711837242933"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "X7:      \nBody type: Large luxury SUV    \n Fuel options: Gasoline, diesel, plug-in hybrid    \n Transmission: All-wheel drive (xDrive)     \nFeatures: Spacious, comfortable, equipped with high-end technologies, suitable for families and travel."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1711737582750",
+      "conditions": "@Car_model:X7",
+      "dialog_node": "response_9_1711837557094",
+      "previous_sibling": "response_3_1711837536502"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi TT : Coupé sportif     Design : Élégant et sportif, avec un design distinctif et des lignes dynamiques     Motorisations : Essence, offrant des performances puissantes et une expérience de conduite sportive     Technologie : Intègre des systèmes d'infodivertissement avancés et des aides à la conduite modernes     Confort : Intérieur bien aménagé avec des matériaux de qualité et une finition premium     Sécurité : Dotée de fonctionnalités de sécurité avancées pour assurer une conduite sûre     Polyvalence : Idéale pour les passionnés de conduite sportive et de style distinctif     Popularité : Appréciée pour son style, ses performances et son caractère sportif     Compétition : Concurrente de modèles tels que la Porsche 718 Cayman et la BMW Z4     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment des coupés sportifs premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:TT",
+      "dialog_node": "response_9_1712454843599",
+      "previous_sibling": "response_1_1712454838590"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A6 : Berline de luxe     Design : Élégant et dynamique, avec des lignes modernes et distinctives de la marque Audi     Motorisations : Essence, diesel et hybride, offrant des performances puissantes et une efficacité remarquable     Technologie : Intègre des systèmes d'infodivertissement avancés et des aides à la conduite de pointe     Confort : Intérieur luxueux, spacieux et bien équipé, offrant un haut niveau de confort et de raffinement     Sécurité : Dotée de nombreuses fonctionnalités de sécurité avancées pour assurer une conduite sûre     Polyvalence : Idéale pour les trajets professionnels ou les voyages de longue distance     Popularité : Très appréciée dans le segment des berlines de luxe pour son style, ses performances et son confort     Compétition : Concurrente de modèles tels que la BMW Série 5 et la Mercedes-Benz Classe E     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A6",
+      "dialog_node": "response_9_1712454858901",
+      "previous_sibling": "response_4_1712454850372"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "    Audi A7 : Berline sportback de luxe     Design : Fusion entre une berline et un coupé, avec des lignes élégantes et fluides     Motorisations : Essence, diesel et hybride, offrant des performances élevées et une efficacité optimisée     Technologie : Intègre des systèmes d'infodivertissement de pointe et des fonctionnalités de conduite semi-autonome     Confort : Intérieur luxueux, spacieux et bien équipé, offrant un haut niveau de confort pour les passagers     Sécurité : Dotée de nombreuses fonctionnalités de sécurité avancées pour une conduite sécurisée     Polyvalence : Allie le confort d'une berline au style dynamique d'un coupé, adaptée à différents types de trajets     Popularité : Appréciée pour son design distinctif et ses performances dans le segment des berlines de luxe     Compétition : Concurrente de modèles tels que la Mercedes-Benz CLS et la BMW Série 6 Gran Coupé     Prix : Variables selon la version, les options et les équipements choisis, positionnée dans le segment premium."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1711841380824",
+      "conditions": "@Audi_model:A7",
+      "dialog_node": "response_9_1712454865658",
+      "previous_sibling": "response_9_1712454858901"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche Taycan : La sportive électrique de luxeLe Taycan est la première voiture entièrement électrique de Porsche, offrant des performances exaltantes, un design élégant et toute la sophistication que vous attendez de la marque allemande.Technologies embarquées:- Système d'infodivertissement Porsche Communication Management (PCM) avec grand écran tactile central et écran optionnel pour le passager avant-Instrumentation numérique entièrement configurable- Connectivité Apple CarPlay et Android Auto- Aides à la conduite évoluées : régulateur de vitesse adaptatif, aide au maintien dans la voie, etc."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711841427108",
+      "conditions": "@Porsche_model:Taycan",
+      "dialog_node": "response_9_1712454911000"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Porsche 718 Cayman : Le coupé sport à moteur central\n\nLa Porsche 718 Cayman est un coupé sport à deux places et moteur central, offrant une expérience de conduite exaltante, une maniabilité précise et un design élégant.\nMotorisations:\n\n    Moteur quatre cylindres turbocompressé de 300 ch (718 Cayman)\n    Moteur six cylindres à plat biturbo de 350 ch (718 Cayman S)\n    Moteur six cylindres à plat atmosphérique de 400 ch (718 Cayman GTS 4.0)\n    Moteur six cylindres à plat haute performance (puissance non communiquée) (718 Cayman GT4 RS)\n\nTechnologies embarquées:\n\n    Système d'infodivertissement Porsche Communication Management (PCM) avec écran tactile central\n    Instrumentation numérique partiellement configurable\n    Connectivité Apple CarPlay et Android Auto\n    Aides à la conduite : régulateur de vitesse adaptatif, aide au maintien dans la voie, etc.\n\nPoints forts:\n\n    Maniabilité exceptionnelle et sensations de conduite directes\n    Moteurs puissants et sonorité sportive\n    Tenue de route précise et châssis équilibré\n    Plusieurs variantes disponibles pour répondre à vos besoins et à votre budget\n    Option d'une boîte de vitesses manuelle pour plus d'engagement\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1711841427108",
+      "conditions": "@Porsche_model:(718 Cayman)",
+      "dialog_node": "response_9_1712454939570",
+      "previous_sibling": "response_7_1712454928762"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "nlp": {
+      "model": "latest"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "language": "en",
+  "description": "created for assistant 20f5be93-9516-4c56-8d87-17ef95c0636d",
+  "name": "Car's Chatbot-dialog"
+}

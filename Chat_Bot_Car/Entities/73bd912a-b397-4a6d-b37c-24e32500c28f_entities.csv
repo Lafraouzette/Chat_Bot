@@ -1,0 +1,212 @@
+Audi_model,A8,A8
+Audi_model,Q2,Q2
+Audi_model,Q3,Q3
+Audi_model,Q7,Q7
+Audi_model,Q8,Q8
+Audi_model,TT,TT
+Audi_model,R8,R8
+Audi_model,Q5,Q5
+Audi_model,A1,A1
+Audi_model,A3,A3
+Audi_model,A4,A4
+Audi_model,A7,A7
+Audi_model,A5,A5
+Audi_model,A6,A6
+BMW_Models,Ix,Ix
+BMW_Models,Ix1,Ix1
+BMW_Models,Ix2,Ix2
+BMW_Models,Ix3,Ix3
+BMW_Models,XM,XM
+BMW_Models,Z4,z4
+Car_brand,Lexus,Lexus
+Car_brand,Tesla,Tesla
+Car_brand,Fiat,Fiat
+Car_brand,Porsche,Porsche
+Car_brand,Jaguar,Jaguar
+Car_brand,Land Rover,Land Rover
+Car_brand,Mitsubishi,Mitsubishi
+Car_brand,Buick,Buick
+Car_brand,Cadillac,Cadillac
+Car_brand,Chrysler,Chrysler
+Car_brand,GMC,GMC
+Car_brand,Infiniti,Infiniti
+Car_brand,Lincoln,Lincoln
+Car_brand,Acura,Acura
+Car_brand,Alfa Romeo,Alfa Romeo
+Car_brand,Bentley,Bentley
+Car_brand,Ferrari,Ferrari
+Car_brand,Lamborghini,Lamborghini
+Car_brand,Maserati,Maserati
+Car_brand,McLaren,McLaren
+Car_brand,Rolls-Royce,Rolls-Royce
+Car_brand,Bugatti,Bugatti
+Car_brand,Genesis,Genesis
+Car_brand,Mini,Mini
+Car_brand,Lotus,Lotus
+Car_brand,Mazda,Mazda
+Car_brand,Subaru,Subaru
+Car_brand,Kia,Kia
+Car_brand,Hyundai,Hyundai
+Car_brand,Nissan,Nissan
+Car_brand,Chevrolet,Chevy,Chevrolet
+Car_brand,Mercedes-Benz,Mercedes,Mercedes Benz,MB
+Car_brand,Audi,Audi
+Car_brand,Volkswagen,Volkswagen,VW
+Car_brand,Honda,Honda
+Car_brand,BMW,BMW
+Car_brand,Ford,Ford
+Car_brand,Toyota,Toyota
+Car_brand,Volvo,Volvo
+Car_brand,Jeep,Jeep
+Car_model,Classe C,Classe C
+Car_model,Series 1,Series 1,serie1,Serie 1,Series1
+Car_model,x1,X1
+Car_model,X2,x2
+Car_model,X3,x3
+Car_model,X6,x6
+Car_model,X7,x7
+Car_model,X4,x4
+Car_model,X5,x5
+Car_model,Series 2,Series 2
+Car_model,Series 3,Series 3
+Car_model,Series 4,Series 4
+Car_model,Series 5,Series 5
+Car_model,Series 6,Series 6
+Car_model,Series 7,Series 7
+Car_model,Series 8,Series 8
+Car_model,Classe A,Classe A
+Car_model,Classe S,Classe S
+Car_model,Classe B,Classe B
+Car_model,GLA,GLA
+Car_model,GLC,GLC
+Car_model,Classe E,Classe E
+Car_model,CLA,CLA
+Car_model,GLB,GLB
+Car_model,CLS,CLS
+Car_model,GLE,GLE
+Car_model,GLS,GLS
+Car_model,Classe G,Classe G
+Car_model,AMG GT,AMG GT
+Car_model,EQC,EQC
+Car_model,G-Class
+Features,Wireless charging,Wireless phone charger,Inductive charging
+Features,ABS,Anti-lock braking system,Brake assist,Electronic brakeforce distribution
+Features,ESC,Electronic stability control,Traction control,Stability control
+Features,Airbags,Airbag system,Driver airbag,Passenger airbag,Side airbags
+Features,TPMS,Tire pressure monitoring system,Low tire pressure warning
+Features,Backup camera,Rearview camera,Parking camera,Reversing camera
+Features,Bluetooth,Bluetooth connectivity,Hands-free calling,Wireless connectivity
+Features,Navigation,GPS navigation system,Navigation system,Navigation app
+Features,Keyless entry,Keyless start,Keyless ignition,Remote start
+Features,Leather seats,Leather upholstery,Heated seats,Power-adjustable seats
+Features,Sunroof,Moonroof,Panoramic roof,Sun/moon roof
+Features,LED headlights,LED taillights,LED lighting,LED fog lights
+Features,Adaptive cruise control,Cruise control,Adaptive cruise
+Features,Blind spot monitoring,Blind spot detection,Blind spot assist
+Features,Lane departure warning,Lane keeping assist,Lane centering
+Features,Apple CarPlay,Android Auto,Smartphone integration,Mobile connectivity
+Features,Harman Kardon sound system,Premium audio system,High-end sound system
+Features,360-degree camera,Surround-view camera,Top-view camera
+Features,Power liftgate,Hands-free liftgate,Power tailgate,Electronic tailgate
+Features,Auto climate control,Dual-zone climate control,Tri-zone climate control
+Fuel_type,Ethanol,Flex-fuel,E85,Ethanol blend
+Fuel_type,Gasoline,Petrol,Premium unleaded,Regular unleaded,Super unleaded
+Fuel_type,Diesel,Diesel fuel,Bluetec,Biodiesel
+Fuel_type,Hybrid,Hybrid-electric,Plug-in hybrid,HEV,PHEV
+Fuel_type,Electric,Electric vehicle,Electric car,Zero-emission vehicle,ZEV
+Fuel_type,Natural gas,CNG,Compressed natural gas
+Fuel_type,LPG,Liquefied petroleum gas
+Fuel_type,Hydrogen,Fuel cell,Hydrogen fuel cell,Hydrogen-powered
+Fuel_type,Bioethanol,Biofuel,Cellulosic ethanol,Second-generation ethanol
+Fuel_type,Bio-diesel,Green diesel,Biodiesel blend,Second-generation bio-diesel
+Porsche_model,911,911
+Porsche_model,Macan,Macan
+Porsche_model,Taycan,Taycan
+Porsche_model,918 Spyder,918 Spyder
+Porsche_model,Cayenne,Cayenne
+Porsche_model,Panamera,Panamera
+Porsche_model,718 Cayman,718 Cayman
+Porsche_model,718 Boxster,718 Boxster
+Price_car,Expensive,Luxurious,Top-notch,Fancy,High-priced,Lavish,Extravagant
+Price_car,Budget-friendly,Reasonably priced,Cost-effective,Wallet-friendly,Inexpensive
+Price_car,High-end,Luxury,Expensive,Premium,Top-tier,High cost,Top-of-the-line
+Price_car,Mid-range,Medium budget,Moderate price,Moderate cost,Reasonable price
+Price_car,Low budget,Low cost,Economical,Affordable,Cheap,Entry-level
+Price_car,Luxury,Deluxe,High-end,Fancy,Top-of-the-line,Exclusive
+Price_car,Discount,Deal,Bargain,Marked-down,Sale,Special offer
+Price_car,Value-oriented,Great value,Good price,Reasonably-priced
+Price_car,Steep,Pricey,Overpriced,High-cost,High-priced
+Price_car,Economic,Budget-conscious,Thrifty,Sensible,Frugal,Austerity
+Price_car,Affordable,Accessible,Reasonable,Bargain,Value for money,Good deal,Competitive
+Reviews_and_ratings,5 stars,5-star rating,Top-rated,Highly recommended,Excellent
+Reviews_and_ratings,4 stars,4-star rating,Very good,Good,Positive
+Reviews_and_ratings,Professional reviews,Expert ratings,Critic reviews,Critic ratings,Expert feedback
+Reviews_and_ratings,Online reviews,Online ratings,Internet feedback,Web reviews,Web ratings
+Reviews_and_ratings,User reviews,User ratings,Consumer feedback,Customer reviews,Customer ratings
+Reviews_and_ratings,1 star,1-star rating,Very poor,Terrible,Disappointing
+Reviews_and_ratings,2 stars,2-star rating,Below average,Unsatisfactory,Not recommended
+Reviews_and_ratings,3 stars,3-star rating,Average,Neutral,Okay
+Reviews_and_ratings,Positive reviews,High ratings,Glowing reviews,Excellent ratings,Favorable feedback
+Reviews_and_ratings,Negative reviews,Low ratings,Critical feedback,Poor reviews,Unsatisfactory ratings
+Technical_characteristics,Cargo space,Cargo space,Trunk space
+Technical_characteristics,Seating capacity,Seating capacity,Number of seats
+Technical_characteristics,Ground clearance,Ground clearance
+Technical_characteristics,Wheelbase,Wheelbase
+Technical_characteristics,Curb weight,Curb weight
+Technical_characteristics,Maximum towing capacity,Maximum towing capacity,Towing capacity
+Technical_characteristics,Brake type,Brake type
+Technical_characteristics,Suspension type,Suspension type
+Technical_characteristics,Warranty,Warranty
+Technical_characteristics,characteristics,caracteristique
+Technical_characteristics,0-60 mph time,0-60 mph time,Acceleration from 0 to 60 mph
+Technical_characteristics,Acceleration,Acceleration
+Technical_characteristics,Drive type,Drive type
+Technical_characteristics,Top speed,Top speed,Maximum speed
+Technical_characteristics,Transmission type,Transmission type
+Technical_characteristics,Fuel economy,Fuel economy,Fuel efficiency
+Technical_characteristics,Engine displacement,Engine displacement,Engine size
+Technical_characteristics,Torque,Torque
+Technical_characteristics,Horsepower,Horsepower,HP
+Technical_characteristics,Fuel type,Fuel type,Type of fuel
+Technical_characteristics,Number of cylinders,Number of cylinders,Cylinder count
+Technical_characteristics,Fuel tank capacity,Fuel tank capacity,Gas tank capacity
+Volkswagen_model,Golf,Golf
+Volkswagen_model,Polo,Polo
+Volkswagen_model,Tiguan,Tiguan
+Volkswagen_model,Caddy,Caddy
+Volkswagen_model,Touareg,Touareg
+Volkswagen_model,Jetta,Jetta
+Volkswagen_model,Passat,Passat
+Year_of_manufacture,2022,2022,22
+Year_of_manufacture,2021,2021,21
+Year_of_manufacture,2020,2020,20
+Year_of_manufacture,2019,2019,19
+Year_of_manufacture,2018,2018,18
+Year_of_manufacture,2017,2017,17
+Year_of_manufacture,2016,2016,16
+Year_of_manufacture,2015,2015,15
+Year_of_manufacture,2014,2014,14
+Year_of_manufacture,2013,2013,13
+Year_of_manufacture,2012,2012,12
+Year_of_manufacture,2011,2011,11
+Year_of_manufacture,2010,2010,10
+Year_of_manufacture,2009,2009,09
+Year_of_manufacture,2008,2008,08
+Year_of_manufacture,2007,2007,07
+Year_of_manufacture,2006,2006,06
+Year_of_manufacture,2005,2005,05
+Year_of_manufacture,2004,2004,04
+Year_of_manufacture,2003,2003,03
+Year_of_manufacture,2002,2002,02
+Year_of_manufacture,2001,2001,01
+Year_of_manufacture,2000,2000,00
+Year_of_manufacture,1999,1999,99
+Year_of_manufacture,1998,1998,98
+Year_of_manufacture,1997,1997,97
+Year_of_manufacture,1996,1996,96
+Year_of_manufacture,1995,1995,95
+Year_of_manufacture,1994,1994,94
+Year_of_manufacture,1993,1993,93
+Year_of_manufacture,1992,1992,92
+Year_of_manufacture,1991,1991,91
+Year_of_manufacture,1990,1990,90
